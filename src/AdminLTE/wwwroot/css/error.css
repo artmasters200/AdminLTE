@@ -1,0 +1,78 @@
+﻿@charset "UTF-8";
+
+html * {
+  outline: none !important;
+}
+html,
+body {
+  font-size: 12px;
+  padding: 0px;
+  margin: 0px;
+  overflow: hidden;
+  background: #334454;
+  font-family: 'Open Sans', sans-serif;
+}
+a {
+  color: #2f9fe0;
+}
+/* Layout */
+
+.center {text-align: center; margin-left: auto; margin-right: auto; margin-bottom: auto; margin-top: auto;}
+
+[class^='col-xs-'],
+[class^='col-sm-'],
+[class^='col-md-'],
+[class^='col-lg-'] {
+  position: relative;
+  min-height: 1px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.container .row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+/* eof layout */
+
+/* error block */
+.block-error {
+  width: 400px;
+  margin: 10% auto 0px;
+}
+.block-error .error-num {
+  font-size: 190px;
+  font-weight: 100;
+  text-align: center;
+  float: left;
+  width: 100%;
+  color: #FFF;
+  line-height: 180px;
+}
+.block-error .error-text {
+  font-size: 31px;
+  color: #F5F5F5;
+  float: left;
+  width: 100%;
+  font-weight: 200;
+  text-align: center;
+  margin-top: 10px;
+  text-transform: uppercase;
+}
+.block-error .error-description {
+  font-size: 13px;
+  color: #F0F0F0;
+  float: left;
+  width: 100%;
+  font-weight: 300;
+  margin: 30px 0px;
+  text-align: center;
+}
+.block-error .copy {
+  float: left;
+  width: 100%;
+  text-align: center;
+  color: #FFF;
+  margin-top: 30px;
+  color: #dddddd;
+}
+/* eof error */

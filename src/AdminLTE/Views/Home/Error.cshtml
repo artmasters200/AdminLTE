@@ -1,0 +1,59 @@
+﻿@{ 
+    Layout = "";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>AdminLTE</title>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+    <environment names="Development">
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+        <link rel="stylesheet" href="~/lib/font-awesome/css/font-awesome.css" />
+        <link rel="stylesheet" href="~/lib/Ionicons/css/ionicons.css" />
+        <link rel="stylesheet" href="~/css/site.css" />
+        <link rel="stylesheet" href="~/css/error.css"/>
+    </environment>
+    <environment names="Staging,Production">
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" asp-append-version="true" />
+        <link rel="stylesheet" href="~/lib/font-awesome/css/font-awesome.min.css" asp-append-version="true" />
+        <link rel="stylesheet" href="~/lib/Ionicons/css/ionicons.min.css" asp-append-version="true" />
+        <link rel="stylesheet" href="css/styles.css" asp-append-version="true" />
+        <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
+    </environment>
+
+</head>
+<body>
+
+    <div class="">
+
+        <div class="">
+
+            <div class="block-error">
+
+                <div class="error-num">404</div>
+                <div class="error-text">Page not found</div>
+
+                <div class="error-description">Unfortunately we're having trouble loading the page you are looking for. Please verify if you have the right permission and try again or use action below.</div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <button class="btn btn-info btn-block" onClick="document.location.href = '/';">Back to dashboard</button>
+                    </div>
+                    <div class="col-md-6">
+                        <button class="btn btn-primary btn-block" onClick="history.back();">Previous page</button>
+                    </div>
+                </div>
+                <div class="copy">
+                    © All Rights Reserved AdminLTE 2016
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</body>
+</html>

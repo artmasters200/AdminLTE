@@ -1,0 +1,96 @@
+﻿<environment names="Development">
+    <link rel="stylesheet" href="~/lib/datatables/media/css/dataTables.bootstrap.css" asp-append-version="true"/>
+</environment>
+<environment names="Staging,Production">
+    <link rel="stylesheet" href="~/lib/datatables/media/css/dataTables.bootstrap.min.css" asp-append-version="true" />
+</environment>
+
+<environment names="Development">
+    <script src="~/lib/datatables/media/js/jquery.dataTables.js" asp-append-version="true"></script>
+    <script src="~/lib/datatables/media/js/dataTables.bootstrap.js" asp-append-version="true"></script>
+</environment>
+<environment names="Staging,Production">
+    <script src="~/lib/datatables/media/js/jquery.dataTables.min.js" asp-append-version="true"></script>
+    <script src="~/lib/datatables/media/js/dataTables.bootstrap.min.js" asp-append-version="true"></script>
+</environment>
+
+<div class="box">
+    <div class="box-header">datatable template</div>
+    <div class="box-body table-responsive">
+        <table class="table table-bordered table-hover" id="TableId" cellspacing="0" align="center">
+            <thead>
+                <tr>
+                    <th>Sr</th>
+                    <th>Order Track Number</th>
+                    <th>Quantity</th>
+                    <th>Product Name</th>
+                    <th>Special Offer</th>
+                    <th>Unit Price</th>
+                    <th>Unit Price Discount</th>
+                    <th>Options</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+</div>
+
+<div class="box">
+    <div class="box-body">
+        <form asp-controller="Home" asp-action="Index" method="post">
+            <button class="btn btn-sm btn-primary" type="submit">Submit</button>
+            <button class="btn btn-sm btn-primary" type="submit">Submit</button>
+            <button class="btn btn-sm btn-primary" type="submit">Submit</button>
+        </form>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        $('#TableId').DataTable(
+        {
+            searchDelay: 500,
+            "columnDefs": [
+                { "width": "5%", "targets": [0] },
+                { "className": "text-center", "targets": [0, 1, 2, 3, 4, 5, 6] },
+                { "defaultContent": "<button class='btn btn-primary btn-sm'>Details</button>", "targets": [7] },
+                { "searchable": false, "targets": [0,2,4,5,6] },
+                { "render": function (data, type, row) {
+                            return ' <label class="label label-primary">' + data + '</label>';},
+                  "targets": [4] },
+                { "render": function (data, type, row) {
+                        if (row['quantity'] > 1)
+                            return ' <label class="label label-success">' + row['quantity'] + '</label>'
+                        else
+                            return ' <label class="label label-default">' + row['quantity'] + '</label>';},
+                   "targets": [2]},
+            ],
+            "language":
+                {
+                    "processing": "<div class=''><i class='fa fa-cog fa-spin site-loader-color'></i></div>",
+                    "search": "filter",
+                    "searchPlaceholder": "track num or product"
+                },
+            "processing": true,
+            "serverSide": true,
+            "ajax":
+                {
+                    "url": "/Home/GetData",
+                    "type": "POST",
+                    "dataType": "JSON"
+                },
+            "columns": [
+                        { "data": "sr" },
+                        { "data": "ordertracknumber" },
+                        { "data": "quantity" },
+                        { "data": "productname" },
+                        { "data": "specialoffer" },
+                        { "data": "unitprice" },
+                        { "data": "unitpricediscount" },
+            ],
+            "dom": "<'row'<'col-sm-6'l><'col-sm-6'<'#buttonContainer.site-datatable-button-container'>f>>" + "<'row'<'col-sm-12'tr>>" + "<'row'<'col-sm-5'i><'col-sm-7'p>>",
+        });
+        
+        $("#buttonContainer").addClass("pull-right").append("<button class='btn btn-sm bg-olive'>Create</button>");
+
+    });
+</script>

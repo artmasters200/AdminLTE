@@ -1,0 +1,1001 @@
+﻿0,1,2,3,4,5,6
+1,4911-403C-98,1,Mountain-100 Black. 42,No Discount,2024.994,0.00
+2,4911-403C-98,3,Mountain-100 Black. 44,No Discount,2024.994,0.00
+3,4911-403C-98,1,Mountain-100 Black. 48,No Discount,2024.994,0.00
+4,4911-403C-98,1,Mountain-100 Silver. 38,No Discount,2039.994,0.00
+5,4911-403C-98,1,Mountain-100 Silver. 42,No Discount,2039.994,0.00
+6,4911-403C-98,2,Mountain-100 Silver. 44,No Discount,2039.994,0.00
+7,4911-403C-98,1,Mountain-100 Silver. 48,No Discount,2039.994,0.00
+8,4911-403C-98,3,Long-Sleeve Logo Jersey. M,No Discount,28.8404,0.00
+9,4911-403C-98,1,Long-Sleeve Logo Jersey. XL,No Discount,28.8404,0.00
+10,4911-403C-98,6,Mountain Bike Socks. M,No Discount,5.70,0.00
+11,4911-403C-98,2,AWC Logo Cap,No Discount,5.1865,0.00
+12,4911-403C-98,4,Sport-100 Helmet. Blue,No Discount,20.1865,0.00
+13,6431-4D57-83,1,Road-650 Red. 44,No Discount,419.4589,0.00
+14,6431-4D57-83,1,Road-450 Red. 52,No Discount,874.794,0.00
+15,4E0A-4F89-AE,1,HL Mountain Frame - Black. 48,No Discount,809.76,0.00
+16,4E0A-4F89-AE,1,HL Mountain Frame - Black. 42,No Discount,714.7043,0.00
+17,4E0A-4F89-AE,2,HL Mountain Frame - Black. 38,No Discount,714.7043,0.00
+18,4E0A-4F89-AE,4,AWC Logo Cap,No Discount,5.1865,0.00
+19,4E0A-4F89-AE,4,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+20,4E0A-4F89-AE,2,HL Mountain Frame - Silver. 46,No Discount,722.5949,0.00
+21,4E0A-4F89-AE,3,Mountain-100 Black. 38,No Discount,2024.994,0.00
+22,4E0A-4F89-AE,2,Mountain-100 Black. 48,No Discount,2024.994,0.00
+23,4E0A-4F89-AE,2,Sport-100 Helmet. Blue,No Discount,20.1865,0.00
+24,4E0A-4F89-AE,2,HL Mountain Frame - Silver. 48,No Discount,818.70,0.00
+25,4E0A-4F89-AE,4,Mountain-100 Black. 42,No Discount,2024.994,0.00
+26,4E0A-4F89-AE,2,Mountain-100 Silver. 44,No Discount,2039.994,0.00
+27,4E0A-4F89-AE,2,Long-Sleeve Logo Jersey. XL,No Discount,28.8404,0.00
+28,4E0A-4F89-AE,2,Mountain-100 Black. 44,No Discount,2024.994,0.00
+29,4E0A-4F89-AE,5,Sport-100 Helmet. Black,No Discount,20.1865,0.00
+30,2E53-4802-85,3,Road-650 Red. 52,No Discount,419.4589,0.00
+31,2E53-4802-85,5,Road-650 Black. 52,No Discount,419.4589,0.00
+32,2E53-4802-85,2,LL Road Frame - Red. 62,No Discount,183.9382,0.00
+33,2E53-4802-85,4,Road-450 Red. 58,No Discount,874.794,0.00
+34,2E53-4802-85,3,LL Road Frame - Red. 44,No Discount,183.9382,0.00
+35,2E53-4802-85,5,Road-650 Red. 44,No Discount,419.4589,0.00
+36,2E53-4802-85,3,Road-650 Black. 58,No Discount,419.4589,0.00
+37,2E53-4802-85,2,Road-650 Black. 44,No Discount,419.4589,0.00
+38,2E53-4802-85,1,Road-150 Red. 56,No Discount,2146.962,0.00
+39,2E53-4802-85,1,Road-450 Red. 44,No Discount,874.794,0.00
+40,2E53-4802-85,3,Road-650 Red. 48,No Discount,419.4589,0.00
+41,2E53-4802-85,1,ML Road Frame - Red. 48,No Discount,356.898,0.00
+42,2E53-4802-85,6,Road-450 Red. 52,No Discount,874.794,0.00
+43,2E53-4802-85,1,LL Road Frame - Red. 60,No Discount,183.9382,0.00
+44,2E53-4802-85,3,LL Road Frame - Black. 58,No Discount,178.5808,0.00
+45,2E53-4802-85,1,Road-150 Red. 62,No Discount,2146.962,0.00
+46,2E53-4802-85,3,Road-650 Red. 60,No Discount,419.4589,0.00
+47,2E53-4802-85,1,LL Road Frame - Red. 48,No Discount,183.9382,0.00
+48,2E53-4802-85,1,ML Road Frame - Red. 52,No Discount,356.898,0.00
+49,2E53-4802-85,1,LL Road Frame - Black. 52,No Discount,178.5808,0.00
+50,2E53-4802-85,3,Road-650 Black. 60,No Discount,419.4589,0.00
+51,2E53-4802-85,1,Road-450 Red. 60,No Discount,874.794,0.00
+52,1E90-4FBF-B6,1,Road-650 Red. 60,No Discount,419.4589,0.00
+53,2F44-4BA1-BB,1,Mountain-100 Silver. 42,No Discount,2039.994,0.00
+54,2F44-4BA1-BB,4,Mountain-100 Black. 38,No Discount,2024.994,0.00
+55,2F44-4BA1-BB,1,Long-Sleeve Logo Jersey. M,No Discount,28.8404,0.00
+56,2F44-4BA1-BB,1,Long-Sleeve Logo Jersey. XL,No Discount,28.8404,0.00
+57,2F44-4BA1-BB,2,Mountain-100 Black. 44,No Discount,2024.994,0.00
+58,2F44-4BA1-BB,3,Mountain-100 Silver. 38,No Discount,2039.994,0.00
+59,2F44-4BA1-BB,1,Mountain-100 Silver. 44,No Discount,2039.994,0.00
+60,2F44-4BA1-BB,1,Mountain-100 Black. 48,No Discount,2024.994,0.00
+61,19F0-4638-8E,2,Sport-100 Helmet. Blue,No Discount,20.1865,0.00
+62,19F0-4638-8E,1,Mountain-100 Silver. 44,No Discount,2039.994,0.00
+63,19F0-4638-8E,1,Sport-100 Helmet. Red,No Discount,20.1865,0.00
+64,19F0-4638-8E,2,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+65,19F0-4638-8E,2,Mountain-100 Black. 44,No Discount,2024.994,0.00
+66,19F0-4638-8E,2,AWC Logo Cap,No Discount,5.1865,0.00
+67,19F0-4638-8E,2,Mountain-100 Black. 38,No Discount,2024.994,0.00
+68,19F0-4638-8E,1,Mountain-100 Black. 48,No Discount,2024.994,0.00
+69,19F0-4638-8E,6,Mountain Bike Socks. M,No Discount,5.70,0.00
+70,19F0-4638-8E,1,Mountain-100 Black. 42,No Discount,2024.994,0.00
+71,D46A-40CA-8D,1,Road-650 Red. 52,No Discount,419.4589,0.00
+72,D46A-40CA-8D,1,Road-150 Red. 56,No Discount,2146.962,0.00
+73,D46A-40CA-8D,1,ML Road Frame - Red. 48,No Discount,356.898,0.00
+74,D46A-40CA-8D,1,Road-450 Red. 44,No Discount,874.794,0.00
+75,D46A-40CA-8D,2,Road-650 Black. 44,No Discount,419.4589,0.00
+76,D46A-40CA-8D,1,Road-650 Black. 60,No Discount,419.4589,0.00
+77,4DFB-4B10-A6,3,Mountain Bike Socks. L,No Discount,5.70,0.00
+78,4DFB-4B10-A6,1,Mountain-100 Silver. 44,No Discount,2039.994,0.00
+79,4DFB-4B10-A6,1,Mountain-100 Black. 48,No Discount,2024.994,0.00
+80,4DFB-4B10-A6,1,Mountain-100 Black. 38,No Discount,2024.994,0.00
+81,365D-4C9A-BE,3,Road-450 Red. 44,No Discount,874.794,0.00
+82,365D-4C9A-BE,2,Road-150 Red. 56,No Discount,2146.962,0.00
+83,365D-4C9A-BE,7,Road-650 Red. 60,No Discount,419.4589,0.00
+84,365D-4C9A-BE,6,Road-650 Black. 58,No Discount,419.4589,0.00
+85,365D-4C9A-BE,6,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+86,365D-4C9A-BE,6,LL Road Frame - Red. 62,No Discount,183.9382,0.00
+87,365D-4C9A-BE,2,Sport-100 Helmet. Red,No Discount,20.1865,0.00
+88,365D-4C9A-BE,2,Sport-100 Helmet. Blue,No Discount,20.1865,0.00
+89,365D-4C9A-BE,2,Road-450 Red. 58,No Discount,874.794,0.00
+90,365D-4C9A-BE,4,AWC Logo Cap,No Discount,5.1865,0.00
+91,365D-4C9A-BE,2,LL Road Frame - Red. 60,No Discount,183.9382,0.00
+92,365D-4C9A-BE,3,Road-450 Red. 60,No Discount,874.794,0.00
+93,365D-4C9A-BE,3,Road-650 Red. 62,No Discount,419.4589,0.00
+94,365D-4C9A-BE,2,Road-650 Black. 52,No Discount,419.4589,0.00
+95,365D-4C9A-BE,3,LL Road Frame - Red. 48,No Discount,183.9382,0.00
+96,365D-4C9A-BE,2,Road-650 Red. 52,No Discount,419.4589,0.00
+97,365D-4C9A-BE,2,Road-650 Black. 60,No Discount,419.4589,0.00
+98,365D-4C9A-BE,2,LL Road Frame - Red. 44,No Discount,183.9382,0.00
+99,365D-4C9A-BE,1,Long-Sleeve Logo Jersey. XL,No Discount,28.8404,0.00
+100,365D-4C9A-BE,2,Road-650 Black. 44,No Discount,419.4589,0.00
+101,365D-4C9A-BE,4,ML Road Frame - Red. 48,No Discount,356.898,0.00
+102,365D-4C9A-BE,6,Road-450 Red. 52,No Discount,874.794,0.00
+103,365D-4C9A-BE,4,Road-650 Red. 44,No Discount,419.4589,0.00
+104,365D-4C9A-BE,3,LL Road Frame - Black. 52,No Discount,178.5808,0.00
+105,365D-4C9A-BE,4,Long-Sleeve Logo Jersey. M,No Discount,28.8404,0.00
+106,365D-4C9A-BE,3,LL Road Frame - Black. 58,No Discount,178.5808,0.00
+107,365D-4C9A-BE,1,Sport-100 Helmet. Black,No Discount,20.1865,0.00
+108,365D-4C9A-BE,3,ML Road Frame - Red. 52,No Discount,356.898,0.00
+109,365D-4C9A-BE,3,Road-650 Red. 48,No Discount,419.4589,0.00
+110,B65C-4867-86,1,HL Mountain Frame - Black. 38,No Discount,714.7043,0.00
+111,F101-4649-85,1,Mountain Bike Socks. L,No Discount,5.70,0.00
+112,F101-4649-85,2,Mountain Bike Socks. M,No Discount,5.70,0.00
+113,F101-4649-85,2,Mountain-100 Silver. 44,No Discount,2039.994,0.00
+114,F101-4649-85,1,Mountain-100 Black. 42,No Discount,2024.994,0.00
+115,DFD9-41B7-94,1,Road-150 Red. 56,No Discount,2146.962,0.00
+116,DFD9-41B7-94,2,Long-Sleeve Logo Jersey. M,No Discount,28.8404,0.00
+117,DFD9-41B7-94,1,Road-450 Red. 44,No Discount,874.794,0.00
+118,DFD9-41B7-94,2,Road-650 Black. 44,No Discount,419.4589,0.00
+119,DFD9-41B7-94,2,ML Road Frame - Red. 48,No Discount,356.898,0.00
+120,DFD9-41B7-94,2,Road-650 Red. 48,No Discount,419.4589,0.00
+121,DFD9-41B7-94,2,Road-450 Red. 60,No Discount,874.794,0.00
+122,DFD9-41B7-94,2,Road-650 Red. 52,No Discount,419.4589,0.00
+123,DFD9-41B7-94,1,Long-Sleeve Logo Jersey. XL,No Discount,28.8404,0.00
+124,DFD9-41B7-94,1,Sport-100 Helmet. Blue,No Discount,20.1865,0.00
+125,DFD9-41B7-94,1,Sport-100 Helmet. Black,No Discount,20.1865,0.00
+126,F4B5-48D0-BA,6,Mountain Bike Socks. M,No Discount,5.70,0.00
+127,F4B5-48D0-BA,2,Mountain-100 Black. 42,No Discount,2024.994,0.00
+128,F4B5-48D0-BA,1,Mountain-100 Silver. 48,No Discount,2039.994,0.00
+129,260F-4DCF-A1,1,Road-450 Red. 58,No Discount,874.794,0.00
+130,260F-4DCF-A1,3,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+131,260F-4DCF-A1,1,LL Road Frame - Red. 60,No Discount,183.9382,0.00
+132,260F-4DCF-A1,2,Road-650 Red. 62,No Discount,419.4589,0.00
+133,260F-4DCF-A1,1,Road-650 Red. 44,No Discount,419.4589,0.00
+134,260F-4DCF-A1,2,LL Road Frame - Black. 52,No Discount,178.5808,0.00
+135,260F-4DCF-A1,2,Road-650 Black. 52,No Discount,419.4589,0.00
+136,260F-4DCF-A1,1,AWC Logo Cap,No Discount,5.1865,0.00
+137,260F-4DCF-A1,2,Sport-100 Helmet. Black,No Discount,20.1865,0.00
+138,260F-4DCF-A1,1,Sport-100 Helmet. Blue,No Discount,20.1865,0.00
+139,260F-4DCF-A1,4,Sport-100 Helmet. Red,No Discount,20.1865,0.00
+140,4C12-4FF9-80,3,Road-450 Red. 52,No Discount,874.794,0.00
+141,5069-4470-BE,4,Road-650 Red. 62,No Discount,419.4589,0.00
+142,5069-4470-BE,5,Sport-100 Helmet. Blue,No Discount,20.1865,0.00
+143,5069-4470-BE,2,LL Road Frame - Black. 52,No Discount,178.5808,0.00
+144,5069-4470-BE,1,Sport-100 Helmet. Black,No Discount,20.1865,0.00
+145,5069-4470-BE,2,Road-650 Red. 44,No Discount,419.4589,0.00
+146,5069-4470-BE,2,Road-450 Red. 52,No Discount,874.794,0.00
+147,5069-4470-BE,2,AWC Logo Cap,No Discount,5.1865,0.00
+148,5069-4470-BE,1,Road-450 Red. 58,No Discount,874.794,0.00
+149,5069-4470-BE,3,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+150,11BA-4D19-B7,2,Mountain-100 Black. 42,No Discount,2024.994,0.00
+151,11BA-4D19-B7,2,Mountain-100 Black. 48,No Discount,2024.994,0.00
+152,11BA-4D19-B7,1,Mountain Bike Socks. L,No Discount,5.70,0.00
+153,11BA-4D19-B7,3,Mountain-100 Black. 38,No Discount,2024.994,0.00
+154,11BA-4D19-B7,4,Mountain Bike Socks. M,No Discount,5.70,0.00
+155,8E3A-4564-99,3,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+156,8E3A-4564-99,1,Road-150 Red. 56,No Discount,2146.962,0.00
+157,8E3A-4564-99,1,Road-450 Red. 52,No Discount,874.794,0.00
+158,8E3A-4564-99,1,Road-650 Black. 52,No Discount,419.4589,0.00
+159,8E3A-4564-99,2,Sport-100 Helmet. Black,No Discount,20.1865,0.00
+160,8E3A-4564-99,4,Road-650 Red. 60,No Discount,419.4589,0.00
+161,8E3A-4564-99,2,Road-650 Black. 58,No Discount,419.4589,0.00
+162,8E3A-4564-99,1,Road-650 Red. 48,No Discount,419.4589,0.00
+163,8E3A-4564-99,5,AWC Logo Cap,No Discount,5.1865,0.00
+164,8E3A-4564-99,1,Sport-100 Helmet. Red,No Discount,20.1865,0.00
+165,8E3A-4564-99,1,Road-450 Red. 58,No Discount,874.794,0.00
+166,8E3A-4564-99,2,LL Road Frame - Red. 60,No Discount,183.9382,0.00
+167,FBD8-4CE4-8B,1,Road-650 Red. 60,No Discount,419.4589,0.00
+168,FBD8-4CE4-8B,2,LL Road Frame - Black. 52,No Discount,178.5808,0.00
+169,FBD8-4CE4-8B,1,Road-650 Black. 58,No Discount,419.4589,0.00
+170,FBD8-4CE4-8B,2,ML Road Frame - Red. 48,No Discount,356.898,0.00
+171,FBD8-4CE4-8B,3,Road-650 Red. 44,No Discount,419.4589,0.00
+172,FBD8-4CE4-8B,2,Road-650 Red. 62,No Discount,419.4589,0.00
+173,FBD8-4CE4-8B,3,AWC Logo Cap,No Discount,5.1865,0.00
+174,FBD8-4CE4-8B,4,Sport-100 Helmet. Black,No Discount,20.1865,0.00
+175,FBD8-4CE4-8B,2,LL Road Frame - Red. 60,No Discount,183.9382,0.00
+176,FBD8-4CE4-8B,1,Road-450 Red. 44,No Discount,874.794,0.00
+177,FBD8-4CE4-8B,2,LL Road Frame - Red. 44,No Discount,183.9382,0.00
+178,FBD8-4CE4-8B,1,Long-Sleeve Logo Jersey. XL,No Discount,28.8404,0.00
+179,FBD8-4CE4-8B,1,Road-650 Black. 52,No Discount,419.4589,0.00
+180,FBD8-4CE4-8B,2,Road-450 Red. 52,No Discount,874.794,0.00
+181,FBD8-4CE4-8B,2,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+182,FBD8-4CE4-8B,1,Road-450 Red. 58,No Discount,874.794,0.00
+183,FBD8-4CE4-8B,1,Road-450 Red. 60,No Discount,874.794,0.00
+184,FBD8-4CE4-8B,3,Sport-100 Helmet. Blue,No Discount,20.1865,0.00
+185,FBD8-4CE4-8B,1,Sport-100 Helmet. Red,No Discount,20.1865,0.00
+186,918F-49F3-AD,1,Road-650 Red. 60,No Discount,419.4589,0.00
+187,918F-49F3-AD,2,Road-650 Black. 52,No Discount,419.4589,0.00
+188,918F-49F3-AD,2,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+189,FF1F-4DD0-98,3,Road-650 Red. 60,No Discount,419.4589,0.00
+190,FF1F-4DD0-98,2,Road-450 Red. 44,No Discount,874.794,0.00
+191,FF1F-4DD0-98,2,LL Road Frame - Black. 52,No Discount,178.5808,0.00
+192,FF1F-4DD0-98,4,Sport-100 Helmet. Red,No Discount,20.1865,0.00
+193,FF1F-4DD0-98,1,LL Road Frame - Red. 60,No Discount,183.9382,0.00
+194,FF1F-4DD0-98,1,Sport-100 Helmet. Blue,No Discount,20.1865,0.00
+195,FF1F-4DD0-98,2,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+196,FF1F-4DD0-98,2,LL Road Frame - Red. 44,No Discount,183.9382,0.00
+197,FF1F-4DD0-98,1,Road-450 Red. 52,No Discount,874.794,0.00
+198,FF1F-4DD0-98,1,Road-650 Red. 62,No Discount,419.4589,0.00
+199,FF1F-4DD0-98,2,Road-150 Red. 56,No Discount,2146.962,0.00
+200,FF1F-4DD0-98,2,Sport-100 Helmet. Black,No Discount,20.1865,0.00
+201,FF1F-4DD0-98,3,Road-650 Black. 58,No Discount,419.4589,0.00
+202,FF1F-4DD0-98,3,AWC Logo Cap,No Discount,5.1865,0.00
+203,FF1F-4DD0-98,1,Road-650 Red. 48,No Discount,419.4589,0.00
+204,6D51-449D-B3,6,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+205,6D51-449D-B3,5,Road-650 Red. 44,No Discount,419.4589,0.00
+206,6D51-449D-B3,1,ML Road Frame - Red. 48,No Discount,356.898,0.00
+207,6D51-449D-B3,1,Sport-100 Helmet. Red,No Discount,20.1865,0.00
+208,6D51-449D-B3,1,LL Road Frame - Red. 60,No Discount,183.9382,0.00
+209,6D51-449D-B3,2,Sport-100 Helmet. Black,No Discount,20.1865,0.00
+210,6D51-449D-B3,3,Road-650 Black. 52,No Discount,419.4589,0.00
+211,6D51-449D-B3,2,LL Road Frame - Red. 62,No Discount,183.9382,0.00
+212,6D51-449D-B3,3,Road-450 Red. 52,No Discount,874.794,0.00
+213,6D51-449D-B3,1,Road-650 Black. 44,No Discount,419.4589,0.00
+214,6D51-449D-B3,2,Road-650 Red. 62,No Discount,419.4589,0.00
+215,6D51-449D-B3,2,LL Road Frame - Black. 52,No Discount,178.5808,0.00
+216,6D51-449D-B3,1,Road-150 Red. 56,No Discount,2146.962,0.00
+217,6D51-449D-B3,2,Long-Sleeve Logo Jersey. M,No Discount,28.8404,0.00
+218,6D51-449D-B3,2,Road-650 Red. 52,No Discount,419.4589,0.00
+219,6D51-449D-B3,2,Road-650 Red. 60,No Discount,419.4589,0.00
+220,6D51-449D-B3,1,Road-450 Red. 44,No Discount,874.794,0.00
+221,6D51-449D-B3,2,Long-Sleeve Logo Jersey. XL,No Discount,28.8404,0.00
+222,6D51-449D-B3,2,Sport-100 Helmet. Blue,No Discount,20.1865,0.00
+223,6D51-449D-B3,1,LL Road Frame - Red. 44,No Discount,183.9382,0.00
+224,6D51-449D-B3,2,AWC Logo Cap,No Discount,5.1865,0.00
+225,ECD4-43A8-A8,2,Road-450 Red. 52,No Discount,874.794,0.00
+226,ECD4-43A8-A8,1,Road-650 Red. 44,No Discount,419.4589,0.00
+227,ECD4-43A8-A8,2,Road-650 Red. 60,No Discount,419.4589,0.00
+228,ECD4-43A8-A8,2,Road-650 Black. 52,No Discount,419.4589,0.00
+229,ECD4-43A8-A8,1,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+230,2299-44F7-95,2,Mountain-100 Black. 42,No Discount,2024.994,0.00
+231,2299-44F7-95,2,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+232,2299-44F7-95,2,Mountain-100 Silver. 44,No Discount,2039.994,0.00
+233,2299-44F7-95,1,Mountain-100 Silver. 48,No Discount,2039.994,0.00
+234,2299-44F7-95,1,Sport-100 Helmet. Black,No Discount,20.1865,0.00
+235,2299-44F7-95,2,Sport-100 Helmet. Blue,No Discount,20.1865,0.00
+236,2299-44F7-95,3,AWC Logo Cap,No Discount,5.1865,0.00
+237,2299-44F7-95,4,Mountain-100 Black. 38,No Discount,2024.994,0.00
+238,2299-44F7-95,6,Mountain-100 Black. 44,No Discount,2024.994,0.00
+239,2299-44F7-95,1,Mountain-100 Silver. 42,No Discount,2039.994,0.00
+240,2299-44F7-95,3,Sport-100 Helmet. Red,No Discount,20.1865,0.00
+241,2299-44F7-95,5,Mountain-100 Black. 48,No Discount,2024.994,0.00
+242,2299-44F7-95,6,Mountain Bike Socks. M,No Discount,5.70,0.00
+243,8C01-4CC0-A9,2,Road-450 Red. 58,No Discount,874.794,0.00
+244,8C01-4CC0-A9,2,Road-650 Red. 44,No Discount,419.4589,0.00
+245,8C01-4CC0-A9,1,Road-650 Red. 60,No Discount,419.4589,0.00
+246,8C01-4CC0-A9,2,Road-450 Red. 52,No Discount,874.794,0.00
+247,8C01-4CC0-A9,1,Road-650 Black. 52,No Discount,419.4589,0.00
+248,8C01-4CC0-A9,1,Road-650 Red. 48,No Discount,419.4589,0.00
+249,C519-4AB3-88,3,Road-650 Black. 58,No Discount,419.4589,0.00
+250,C519-4AB3-88,1,Road-650 Red. 48,No Discount,419.4589,0.00
+251,C519-4AB3-88,1,Road-450 Red. 58,No Discount,874.794,0.00
+252,C519-4AB3-88,1,LL Road Frame - Red. 44,No Discount,183.9382,0.00
+253,FBD0-4F71-80,3,Road-450 Red. 52,No Discount,874.794,0.00
+254,FBD0-4F71-80,1,Road-650 Red. 44,No Discount,419.4589,0.00
+255,FBD0-4F71-80,1,Road-650 Black. 52,No Discount,419.4589,0.00
+256,61FA-475A-AC,1,Road-650 Black. 44,No Discount,419.4589,0.00
+257,61FA-475A-AC,2,Road-650 Black. 58,No Discount,419.4589,0.00
+258,16F4-456B-9A,1,LL Road Frame - Red. 44,No Discount,183.9382,0.00
+259,16F4-456B-9A,2,Road-650 Red. 60,No Discount,419.4589,0.00
+260,16F4-456B-9A,3,Road-650 Red. 44,No Discount,419.4589,0.00
+261,16F4-456B-9A,1,LL Road Frame - Black. 52,No Discount,178.5808,0.00
+262,16F4-456B-9A,1,Road-650 Red. 48,No Discount,419.4589,0.00
+263,16F4-456B-9A,2,LL Road Frame - Red. 60,No Discount,183.9382,0.00
+264,16F4-456B-9A,2,Road-450 Red. 58,No Discount,874.794,0.00
+265,16F4-456B-9A,2,Road-450 Red. 52,No Discount,874.794,0.00
+266,16F4-456B-9A,3,Road-650 Black. 58,No Discount,419.4589,0.00
+267,16F4-456B-9A,1,Road-650 Black. 52,No Discount,419.4589,0.00
+268,16F4-456B-9A,2,Road-150 Red. 56,No Discount,2146.962,0.00
+269,DCD9-4C9A-AB,3,Road-650 Red. 52,No Discount,419.4589,0.00
+270,DCD9-4C9A-AB,2,LL Road Frame - Black. 52,No Discount,178.5808,0.00
+271,DCD9-4C9A-AB,2,LL Road Frame - Red. 44,No Discount,183.9382,0.00
+272,DCD9-4C9A-AB,1,Road-150 Red. 56,No Discount,2146.962,0.00
+273,DCD9-4C9A-AB,2,Road-450 Red. 60,No Discount,874.794,0.00
+274,DCD9-4C9A-AB,4,Road-650 Black. 60,No Discount,419.4589,0.00
+275,DCD9-4C9A-AB,2,Road-650 Black. 52,No Discount,419.4589,0.00
+276,DCD9-4C9A-AB,7,Road-650 Red. 60,No Discount,419.4589,0.00
+277,DCD9-4C9A-AB,3,LL Road Frame - Red. 48,No Discount,183.9382,0.00
+278,DCD9-4C9A-AB,1,LL Road Frame - Black. 58,No Discount,178.5808,0.00
+279,DCD9-4C9A-AB,6,Road-650 Red. 48,No Discount,419.4589,0.00
+280,DCD9-4C9A-AB,2,LL Road Frame - Red. 60,No Discount,183.9382,0.00
+281,DCD9-4C9A-AB,2,LL Road Frame - Red. 62,No Discount,183.9382,0.00
+282,DCD9-4C9A-AB,2,ML Road Frame - Red. 48,No Discount,356.898,0.00
+283,DCD9-4C9A-AB,5,Road-650 Black. 58,No Discount,419.4589,0.00
+284,DCD9-4C9A-AB,2,Road-650 Black. 44,No Discount,419.4589,0.00
+285,DCD9-4C9A-AB,2,Road-650 Red. 62,No Discount,419.4589,0.00
+286,DCD9-4C9A-AB,3,Road-450 Red. 52,No Discount,874.794,0.00
+287,DCD9-4C9A-AB,2,Road-150 Red. 62,No Discount,2146.962,0.00
+288,DCD9-4C9A-AB,9,Road-650 Red. 44,No Discount,419.4589,0.00
+289,DCD9-4C9A-AB,4,Road-450 Red. 58,No Discount,874.794,0.00
+290,7A3C-492F-A6,1,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+291,7A3C-492F-A6,1,Road-650 Black. 52,No Discount,419.4589,0.00
+292,7A3C-492F-A6,2,AWC Logo Cap,No Discount,5.1865,0.00
+293,7A3C-492F-A6,2,Road-650 Red. 60,No Discount,419.4589,0.00
+294,272B-4319-9E,1,Road-450 Red. 52,No Discount,874.794,0.00
+295,BFA9-470E-B4,5,Road-650 Black. 52,No Discount,419.4589,0.00
+296,BFA9-470E-B4,1,LL Road Frame - Red. 44,No Discount,183.9382,0.00
+297,BFA9-470E-B4,8,Road-450 Red. 58,No Discount,874.794,0.00
+298,BFA9-470E-B4,2,LL Road Frame - Red. 62,No Discount,183.9382,0.00
+299,BFA9-470E-B4,10,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+300,BFA9-470E-B4,1,Road-650 Black. 44,No Discount,419.4589,0.00
+301,BFA9-470E-B4,4,Road-450 Red. 44,No Discount,874.794,0.00
+302,BFA9-470E-B4,2,LL Road Frame - Black. 52,No Discount,178.5808,0.00
+303,BFA9-470E-B4,8,Road-450 Red. 52,No Discount,874.794,0.00
+304,BFA9-470E-B4,3,Sport-100 Helmet. Black,No Discount,20.1865,0.00
+305,BFA9-470E-B4,6,Road-650 Red. 44,No Discount,419.4589,0.00
+306,BFA9-470E-B4,3,ML Road Frame - Red. 48,No Discount,356.898,0.00
+307,BFA9-470E-B4,6,AWC Logo Cap,No Discount,5.1865,0.00
+308,BFA9-470E-B4,4,Long-Sleeve Logo Jersey. M,No Discount,28.8404,0.00
+309,BFA9-470E-B4,7,Road-650 Red. 60,No Discount,419.4589,0.00
+310,BFA9-470E-B4,2,Road-450 Red. 60,No Discount,874.794,0.00
+311,BFA9-470E-B4,4,Long-Sleeve Logo Jersey. XL,No Discount,28.8404,0.00
+312,BFA9-470E-B4,2,Road-650 Black. 58,No Discount,419.4589,0.00
+313,BFA9-470E-B4,1,Road-650 Red. 52,No Discount,419.4589,0.00
+314,BFA9-470E-B4,2,Road-150 Red. 56,No Discount,2146.962,0.00
+315,BFA9-470E-B4,1,Road-650 Black. 60,No Discount,419.4589,0.00
+316,BFA9-470E-B4,1,LL Road Frame - Black. 58,No Discount,178.5808,0.00
+317,BFA9-470E-B4,3,Road-650 Red. 62,No Discount,419.4589,0.00
+318,BFA9-470E-B4,3,Sport-100 Helmet. Blue,No Discount,20.1865,0.00
+319,BFA9-470E-B4,1,Road-650 Red. 48,No Discount,419.4589,0.00
+320,BFA9-470E-B4,2,LL Road Frame - Red. 60,No Discount,183.9382,0.00
+321,BFA9-470E-B4,4,Sport-100 Helmet. Red,No Discount,20.1865,0.00
+322,BFA9-470E-B4,2,LL Road Frame - Red. 48,No Discount,183.9382,0.00
+323,EC62-4BB3-9B,3,Long-Sleeve Logo Jersey. XL,No Discount,28.8404,0.00
+324,EC62-4BB3-9B,1,Mountain-100 Silver. 44,No Discount,2039.994,0.00
+325,EC62-4BB3-9B,6,Mountain Bike Socks. M,No Discount,5.70,0.00
+326,EC62-4BB3-9B,2,Sport-100 Helmet. Red,No Discount,20.1865,0.00
+327,EC62-4BB3-9B,3,Mountain-100 Silver. 38,No Discount,2039.994,0.00
+328,EC62-4BB3-9B,2,Sport-100 Helmet. Black,No Discount,20.1865,0.00
+329,EC62-4BB3-9B,1,Mountain-100 Silver. 48,No Discount,2039.994,0.00
+330,EC62-4BB3-9B,3,Mountain-100 Black. 44,No Discount,2024.994,0.00
+331,EC62-4BB3-9B,1,Mountain-100 Silver. 42,No Discount,2039.994,0.00
+332,EC62-4BB3-9B,1,Mountain-100 Black. 48,No Discount,2024.994,0.00
+333,EC3D-48E0-A6,3,Mountain-100 Black. 42,No Discount,2024.994,0.00
+334,EC3D-48E0-A6,3,Mountain-100 Silver. 38,No Discount,2039.994,0.00
+335,EC3D-48E0-A6,2,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+336,EC3D-48E0-A6,1,Mountain-100 Silver. 42,No Discount,2039.994,0.00
+337,EC3D-48E0-A6,3,Long-Sleeve Logo Jersey. XL,No Discount,28.8404,0.00
+338,EC3D-48E0-A6,1,Sport-100 Helmet. Red,No Discount,20.1865,0.00
+339,EC3D-48E0-A6,1,Sport-100 Helmet. Black,No Discount,20.1865,0.00
+340,EC3D-48E0-A6,1,Mountain-100 Silver. 48,No Discount,2039.994,0.00
+341,EC3D-48E0-A6,2,Mountain-100 Silver. 44,No Discount,2039.994,0.00
+342,EC3D-48E0-A6,1,AWC Logo Cap,No Discount,5.1865,0.00
+343,EC3D-48E0-A6,5,Sport-100 Helmet. Blue,No Discount,20.1865,0.00
+344,A89C-4D25-B9,2,Mountain-100 Silver. 48,No Discount,2039.994,0.00
+345,A89C-4D25-B9,2,HL Mountain Frame - Silver. 38,No Discount,722.5949,0.00
+346,A89C-4D25-B9,1,HL Mountain Frame - Black. 38,No Discount,714.7043,0.00
+347,A89C-4D25-B9,1,HL Mountain Frame - Silver. 46,No Discount,722.5949,0.00
+348,A89C-4D25-B9,5,Mountain-100 Black. 44,No Discount,2024.994,0.00
+349,A89C-4D25-B9,6,Mountain-100 Black. 48,No Discount,2024.994,0.00
+350,A89C-4D25-B9,2,Mountain Bike Socks. M,No Discount,5.70,0.00
+351,A89C-4D25-B9,5,Mountain-100 Black. 38,No Discount,2024.994,0.00
+352,50C1-41FA-BE,1,Road-650 Red. 44,No Discount,419.4589,0.00
+353,NULL,1,Road-150 Red. 62,No Discount,3578.27,0.00
+354,NULL,1,Mountain-100 Silver. 44,No Discount,3399.99,0.00
+355,NULL,1,Mountain-100 Silver. 44,No Discount,3399.99,0.00
+356,NULL,1,Road-650 Black. 62,No Discount,699.0982,0.00
+357,NULL,1,Mountain-100 Silver. 44,No Discount,3399.99,0.00
+358,NULL,1,Road-150 Red. 44,No Discount,3578.27,0.00
+359,NULL,1,Road-150 Red. 62,No Discount,3578.27,0.00
+360,NULL,1,Mountain-100 Black. 48,No Discount,3374.99,0.00
+361,NULL,1,Mountain-100 Silver. 38,No Discount,3399.99,0.00
+362,NULL,1,Road-150 Red. 48,No Discount,3578.27,0.00
+363,NULL,1,Road-150 Red. 48,No Discount,3578.27,0.00
+364,NULL,1,Road-650 Red. 52,No Discount,699.0982,0.00
+365,NULL,1,Road-150 Red. 52,No Discount,3578.27,0.00
+366,NULL,1,Road-150 Red. 56,No Discount,3578.27,0.00
+367,NULL,1,Road-150 Red. 56,No Discount,3578.27,0.00
+368,NULL,1,Road-150 Red. 44,No Discount,3578.27,0.00
+369,NULL,1,Road-150 Red. 62,No Discount,3578.27,0.00
+370,NULL,1,Road-150 Red. 44,No Discount,3578.27,0.00
+371,NULL,1,Road-150 Red. 56,No Discount,3578.27,0.00
+372,NULL,1,Road-150 Red. 44,No Discount,3578.27,0.00
+373,NULL,1,Road-650 Black. 62,No Discount,699.0982,0.00
+374,NULL,1,Road-150 Red. 44,No Discount,3578.27,0.00
+375,NULL,1,Road-150 Red. 48,No Discount,3578.27,0.00
+376,NULL,1,Road-150 Red. 44,No Discount,3578.27,0.00
+377,NULL,1,Road-150 Red. 62,No Discount,3578.27,0.00
+378,NULL,1,Road-150 Red. 48,No Discount,3578.27,0.00
+379,NULL,1,Road-650 Black. 58,No Discount,699.0982,0.00
+380,NULL,1,Road-150 Red. 44,No Discount,3578.27,0.00
+381,NULL,1,Road-150 Red. 44,No Discount,3578.27,0.00
+382,NULL,1,Road-650 Black. 58,No Discount,699.0982,0.00
+383,NULL,1,Road-150 Red. 44,No Discount,3578.27,0.00
+384,NULL,1,Road-150 Red. 52,No Discount,3578.27,0.00
+385,NULL,1,Mountain-100 Silver. 44,No Discount,3399.99,0.00
+386,NULL,1,Mountain-100 Silver. 44,No Discount,3399.99,0.00
+387,NULL,1,Road-150 Red. 56,No Discount,3578.27,0.00
+388,NULL,1,Mountain-100 Black. 44,No Discount,3374.99,0.00
+389,NULL,1,Road-150 Red. 48,No Discount,3578.27,0.00
+390,NULL,1,Road-150 Red. 48,No Discount,3578.27,0.00
+391,NULL,1,Road-150 Red. 62,No Discount,3578.27,0.00
+392,NULL,1,Mountain-100 Silver. 44,No Discount,3399.99,0.00
+393,NULL,1,Road-150 Red. 44,No Discount,3578.27,0.00
+394,NULL,1,Road-150 Red. 48,No Discount,3578.27,0.00
+395,NULL,1,Road-150 Red. 62,No Discount,3578.27,0.00
+396,NULL,1,Road-150 Red. 48,No Discount,3578.27,0.00
+397,NULL,1,Road-150 Red. 62,No Discount,3578.27,0.00
+398,NULL,1,Road-150 Red. 56,No Discount,3578.27,0.00
+399,NULL,1,Mountain-100 Silver. 48,No Discount,3399.99,0.00
+400,NULL,1,Road-150 Red. 52,No Discount,3578.27,0.00
+401,NULL,1,Road-150 Red. 44,No Discount,3578.27,0.00
+402,NULL,1,Road-150 Red. 48,No Discount,3578.27,0.00
+403,NULL,1,Road-150 Red. 56,No Discount,3578.27,0.00
+404,NULL,1,Road-150 Red. 52,No Discount,3578.27,0.00
+405,NULL,1,Road-150 Red. 56,No Discount,3578.27,0.00
+406,NULL,1,Road-150 Red. 44,No Discount,3578.27,0.00
+407,NULL,1,Road-150 Red. 52,No Discount,3578.27,0.00
+408,NULL,1,Road-150 Red. 44,No Discount,3578.27,0.00
+409,NULL,1,Road-150 Red. 62,No Discount,3578.27,0.00
+410,NULL,1,Road-150 Red. 48,No Discount,3578.27,0.00
+411,NULL,1,Road-150 Red. 44,No Discount,3578.27,0.00
+412,NULL,1,Road-650 Black. 58,No Discount,699.0982,0.00
+413,NULL,1,Mountain-100 Black. 44,No Discount,3374.99,0.00
+414,NULL,1,Road-150 Red. 62,No Discount,3578.27,0.00
+415,NULL,1,Road-150 Red. 62,No Discount,3578.27,0.00
+416,NULL,1,Road-150 Red. 56,No Discount,3578.27,0.00
+417,NULL,1,Road-150 Red. 62,No Discount,3578.27,0.00
+418,NULL,1,Road-150 Red. 56,No Discount,3578.27,0.00
+419,NULL,1,Road-150 Red. 52,No Discount,3578.27,0.00
+420,NULL,1,Road-150 Red. 62,No Discount,3578.27,0.00
+421,NULL,1,Mountain-100 Silver. 44,No Discount,3399.99,0.00
+422,NULL,1,Road-150 Red. 52,No Discount,3578.27,0.00
+423,NULL,1,Mountain-100 Black. 44,No Discount,3374.99,0.00
+424,NULL,1,Road-150 Red. 48,No Discount,3578.27,0.00
+425,NULL,1,Road-150 Red. 48,No Discount,3578.27,0.00
+426,NULL,1,Road-150 Red. 48,No Discount,3578.27,0.00
+427,NULL,1,Road-650 Red. 52,No Discount,699.0982,0.00
+428,NULL,1,Road-150 Red. 48,No Discount,3578.27,0.00
+429,NULL,1,Road-150 Red. 56,No Discount,3578.27,0.00
+430,NULL,1,Road-150 Red. 52,No Discount,3578.27,0.00
+431,NULL,1,Mountain-100 Silver. 48,No Discount,3399.99,0.00
+432,NULL,1,Road-150 Red. 56,No Discount,3578.27,0.00
+433,NULL,1,Road-150 Red. 44,No Discount,3578.27,0.00
+434,NULL,1,Mountain-100 Silver. 42,No Discount,3399.99,0.00
+435,NULL,1,Road-650 Red. 44,No Discount,699.0982,0.00
+436,NULL,1,Road-150 Red. 44,No Discount,3578.27,0.00
+437,NULL,1,Road-150 Red. 48,No Discount,3578.27,0.00
+438,NULL,1,Road-150 Red. 48,No Discount,3578.27,0.00
+439,NULL,1,Road-150 Red. 48,No Discount,3578.27,0.00
+440,NULL,1,Road-150 Red. 62,No Discount,3578.27,0.00
+441,NULL,1,Road-150 Red. 44,No Discount,3578.27,0.00
+442,NULL,1,Road-150 Red. 44,No Discount,3578.27,0.00
+443,NULL,1,Mountain-100 Silver. 38,No Discount,3399.99,0.00
+444,NULL,1,Mountain-100 Black. 48,No Discount,3374.99,0.00
+445,NULL,1,Mountain-100 Black. 48,No Discount,3374.99,0.00
+446,NULL,1,Mountain-100 Silver. 38,No Discount,3399.99,0.00
+447,NULL,1,Road-150 Red. 56,No Discount,3578.27,0.00
+448,NULL,1,Road-150 Red. 48,No Discount,3578.27,0.00
+449,NULL,1,Mountain-100 Silver. 38,No Discount,3399.99,0.00
+450,NULL,1,Mountain-100 Silver. 48,No Discount,3399.99,0.00
+451,NULL,1,Road-150 Red. 48,No Discount,3578.27,0.00
+452,NULL,1,Road-650 Black. 52,No Discount,699.0982,0.00
+453,NULL,1,Road-150 Red. 48,No Discount,3578.27,0.00
+454,NULL,1,Road-150 Red. 62,No Discount,3578.27,0.00
+455,NULL,1,Road-150 Red. 48,No Discount,3578.27,0.00
+456,NULL,1,Road-150 Red. 44,No Discount,3578.27,0.00
+457,NULL,1,Road-150 Red. 44,No Discount,3578.27,0.00
+458,NULL,1,Road-150 Red. 48,No Discount,3578.27,0.00
+459,NULL,1,Road-150 Red. 56,No Discount,3578.27,0.00
+460,NULL,1,Road-150 Red. 62,No Discount,3578.27,0.00
+461,NULL,1,Road-650 Red. 48,No Discount,699.0982,0.00
+462,NULL,1,Road-150 Red. 48,No Discount,3578.27,0.00
+463,NULL,1,Road-150 Red. 48,No Discount,3578.27,0.00
+464,NULL,1,Road-150 Red. 52,No Discount,3578.27,0.00
+465,NULL,1,Road-150 Red. 62,No Discount,3578.27,0.00
+466,NULL,1,Mountain-100 Silver. 42,No Discount,3399.99,0.00
+467,NULL,1,Mountain-100 Silver. 44,No Discount,3399.99,0.00
+468,NULL,1,Road-150 Red. 48,No Discount,3578.27,0.00
+469,NULL,1,Mountain-100 Black. 44,No Discount,3374.99,0.00
+470,NULL,1,Mountain-100 Black. 44,No Discount,3374.99,0.00
+471,NULL,1,Road-150 Red. 44,No Discount,3578.27,0.00
+472,NULL,1,Road-150 Red. 56,No Discount,3578.27,0.00
+473,NULL,1,Road-150 Red. 62,No Discount,3578.27,0.00
+474,NULL,1,Road-150 Red. 48,No Discount,3578.27,0.00
+475,NULL,1,Mountain-100 Silver. 44,No Discount,3399.99,0.00
+476,NULL,1,Road-150 Red. 48,No Discount,3578.27,0.00
+477,NULL,1,Road-150 Red. 62,No Discount,3578.27,0.00
+478,NULL,1,Road-150 Red. 52,No Discount,3578.27,0.00
+479,NULL,1,Road-650 Black. 52,No Discount,699.0982,0.00
+480,NULL,1,Road-650 Black. 44,No Discount,699.0982,0.00
+481,NULL,1,Road-150 Red. 52,No Discount,3578.27,0.00
+482,NULL,1,Mountain-100 Black. 38,No Discount,3374.99,0.00
+483,NULL,1,Road-650 Black. 44,No Discount,699.0982,0.00
+484,NULL,1,Road-150 Red. 62,No Discount,3578.27,0.00
+485,NULL,1,Road-150 Red. 62,No Discount,3578.27,0.00
+486,NULL,1,Road-150 Red. 44,No Discount,3578.27,0.00
+487,NULL,1,Mountain-100 Black. 42,No Discount,3374.99,0.00
+488,NULL,1,Road-150 Red. 62,No Discount,3578.27,0.00
+489,NULL,1,Road-150 Red. 62,No Discount,3578.27,0.00
+490,NULL,1,Mountain-100 Black. 38,No Discount,3374.99,0.00
+491,NULL,1,Mountain-100 Black. 38,No Discount,3374.99,0.00
+492,NULL,1,Road-650 Red. 62,No Discount,699.0982,0.00
+493,NULL,1,Mountain-100 Black. 44,No Discount,3374.99,0.00
+494,NULL,1,Road-150 Red. 52,No Discount,3578.27,0.00
+495,NULL,1,Road-150 Red. 44,No Discount,3578.27,0.00
+496,NULL,1,Road-650 Red. 44,No Discount,699.0982,0.00
+497,NULL,1,Road-150 Red. 56,No Discount,3578.27,0.00
+498,NULL,1,Road-150 Red. 48,No Discount,3578.27,0.00
+499,AEB6-4356-80,2,Mountain-100 Silver. 48,No Discount,2039.994,0.00
+500,AEB6-4356-80,2,Mountain-100 Black. 48,No Discount,2024.994,0.00
+501,AEB6-4356-80,2,HL Mountain Frame - Silver. 46,No Discount,722.5949,0.00
+502,AEB6-4356-80,5,Mountain-100 Black. 44,No Discount,2024.994,0.00
+503,AEB6-4356-80,2,HL Mountain Frame - Silver. 38,No Discount,722.5949,0.00
+504,AEB6-4356-80,1,HL Mountain Frame - Silver. 48,No Discount,818.70,0.00
+505,AEB6-4356-80,1,HL Mountain Frame - Black. 48,No Discount,809.76,0.00
+506,AEB6-4356-80,2,Mountain-100 Silver. 38,No Discount,2039.994,0.00
+507,AEB6-4356-80,2,Mountain Bike Socks. M,No Discount,5.70,0.00
+508,AEB6-4356-80,3,Mountain-100 Black. 42,No Discount,2024.994,0.00
+509,15C3-40C5-AC,4,Mountain-100 Black. 38,No Discount,2024.994,0.00
+510,15C3-40C5-AC,2,Mountain-100 Black. 42,No Discount,2024.994,0.00
+511,15C3-40C5-AC,3,Mountain-100 Black. 44,No Discount,2024.994,0.00
+512,15C3-40C5-AC,1,Mountain-100 Black. 48,No Discount,2024.994,0.00
+513,2E65-4D8B-9A,1,LL Road Frame - Red. 44,No Discount,183.9382,0.00
+514,2E65-4D8B-9A,3,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+515,2E65-4D8B-9A,1,Road-650 Black. 52,No Discount,419.4589,0.00
+516,2E65-4D8B-9A,2,Road-650 Red. 48,No Discount,419.4589,0.00
+517,2E65-4D8B-9A,2,Road-650 Red. 62,No Discount,419.4589,0.00
+518,2E65-4D8B-9A,1,Road-450 Red. 58,No Discount,874.794,0.00
+519,2E65-4D8B-9A,2,Road-650 Black. 58,No Discount,419.4589,0.00
+520,2E65-4D8B-9A,2,Road-150 Red. 56,No Discount,2146.962,0.00
+521,2E65-4D8B-9A,1,LL Road Frame - Red. 60,No Discount,183.9382,0.00
+522,2E65-4D8B-9A,4,AWC Logo Cap,No Discount,5.1865,0.00
+523,A787-4CD2-A0,3,LL Road Frame - Red. 60,No Discount,183.9382,0.00
+524,A787-4CD2-A0,1,AWC Logo Cap,No Discount,5.1865,0.00
+525,A787-4CD2-A0,1,LL Road Frame - Black. 52,No Discount,178.5808,0.00
+526,A787-4CD2-A0,1,LL Road Frame - Red. 44,No Discount,183.9382,0.00
+527,4E09-4638-82,1,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+528,4E09-4638-82,1,AWC Logo Cap,No Discount,5.1865,0.00
+529,4E09-4638-82,1,Road-450 Red. 52,No Discount,874.794,0.00
+530,FB94-4C38-B1,1,Mountain-100 Silver. 44,No Discount,2039.994,0.00
+531,FB94-4C38-B1,1,Mountain-100 Black. 48,No Discount,2024.994,0.00
+532,FB94-4C38-B1,1,Mountain-100 Black. 38,No Discount,2024.994,0.00
+533,FB94-4C38-B1,4,Mountain-100 Black. 42,No Discount,2024.994,0.00
+534,FB94-4C38-B1,2,Mountain-100 Silver. 38,No Discount,2039.994,0.00
+535,D0B8-4476-BA,2,Mountain-100 Black. 42,No Discount,2024.994,0.00
+536,D0B8-4476-BA,1,Long-Sleeve Logo Jersey. M,No Discount,28.8404,0.00
+537,D0B8-4476-BA,2,Mountain-100 Black. 44,No Discount,2024.994,0.00
+538,D0B8-4476-BA,2,Mountain-100 Silver. 38,No Discount,2039.994,0.00
+539,D0B8-4476-BA,1,Sport-100 Helmet. Blue,No Discount,20.1865,0.00
+540,D0B8-4476-BA,1,Mountain-100 Silver. 44,No Discount,2039.994,0.00
+541,D0B8-4476-BA,4,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+542,D0B8-4476-BA,1,Mountain-100 Silver. 42,No Discount,2039.994,0.00
+543,D0B8-4476-BA,1,Sport-100 Helmet. Red,No Discount,20.1865,0.00
+544,D0B8-4476-BA,2,Mountain-100 Silver. 48,No Discount,2039.994,0.00
+545,D0B8-4476-BA,1,Sport-100 Helmet. Black,No Discount,20.1865,0.00
+546,EBA6-4C6F-86,1,Road-650 Black. 58,No Discount,419.4589,0.00
+547,EBA6-4C6F-86,1,Road-450 Red. 60,No Discount,874.794,0.00
+548,EBA6-4C6F-86,1,Road-650 Red. 62,No Discount,419.4589,0.00
+549,EBA6-4C6F-86,2,Road-650 Red. 44,No Discount,419.4589,0.00
+550,EBA6-4C6F-86,1,Road-150 Red. 56,No Discount,2146.962,0.00
+551,EBA6-4C6F-86,3,LL Road Frame - Red. 44,No Discount,183.9382,0.00
+552,EBA6-4C6F-86,1,LL Road Frame - Red. 60,No Discount,183.9382,0.00
+553,EBA6-4C6F-86,3,Road-450 Red. 52,No Discount,874.794,0.00
+554,EBA6-4C6F-86,1,Road-450 Red. 44,No Discount,874.794,0.00
+555,EBA6-4C6F-86,3,ML Road Frame - Red. 48,No Discount,356.898,0.00
+556,EBA6-4C6F-86,1,LL Road Frame - Black. 52,No Discount,178.5808,0.00
+557,56EA-48EB-96,2,Road-650 Red. 62,No Discount,419.4589,0.00
+558,56EA-48EB-96,1,Road-650 Red. 60,No Discount,419.4589,0.00
+559,56EA-48EB-96,1,Sport-100 Helmet. Blue,No Discount,20.1865,0.00
+560,56EA-48EB-96,3,Road-650 Black. 52,No Discount,419.4589,0.00
+561,56EA-48EB-96,1,Sport-100 Helmet. Red,No Discount,20.1865,0.00
+562,56EA-48EB-96,1,LL Road Frame - Red. 44,No Discount,183.9382,0.00
+563,56EA-48EB-96,1,Road-450 Red. 58,No Discount,874.794,0.00
+564,56EA-48EB-96,3,LL Road Frame - Black. 52,No Discount,178.5808,0.00
+565,56EA-48EB-96,1,Road-150 Red. 56,No Discount,2146.962,0.00
+566,56EA-48EB-96,1,Road-650 Black. 58,No Discount,419.4589,0.00
+567,56EA-48EB-96,1,AWC Logo Cap,No Discount,5.1865,0.00
+568,56EA-48EB-96,3,Sport-100 Helmet. Black,No Discount,20.1865,0.00
+569,C745-45C2-A1,1,Mountain-100 Black. 42,No Discount,2024.994,0.00
+570,434D-4DAA-96,2,Mountain-100 Black. 44,No Discount,2024.994,0.00
+571,434D-4DAA-96,1,Mountain-100 Silver. 44,No Discount,2039.994,0.00
+572,434D-4DAA-96,1,Mountain-100 Silver. 38,No Discount,2039.994,0.00
+573,434D-4DAA-96,4,Mountain-100 Black. 42,No Discount,2024.994,0.00
+574,434D-4DAA-96,2,Mountain-100 Black. 38,No Discount,2024.994,0.00
+575,434D-4DAA-96,3,Mountain-100 Black. 48,No Discount,2024.994,0.00
+576,D379-445F-92,2,Road-450 Red. 52,No Discount,874.794,0.00
+577,FB88-4B92-82,2,Road-650 Black. 58,No Discount,419.4589,0.00
+578,FB88-4B92-82,2,Road-650 Red. 60,No Discount,419.4589,0.00
+579,FB88-4B92-82,1,Road-150 Red. 56,No Discount,2146.962,0.00
+580,FB88-4B92-82,4,Road-650 Red. 62,No Discount,419.4589,0.00
+581,FB88-4B92-82,1,LL Road Frame - Black. 52,No Discount,178.5808,0.00
+582,FB88-4B92-82,3,Road-650 Red. 44,No Discount,419.4589,0.00
+583,FB88-4B92-82,2,ML Road Frame - Red. 48,No Discount,356.898,0.00
+584,FB88-4B92-82,1,Road-650 Black. 60,No Discount,419.4589,0.00
+585,FB88-4B92-82,1,LL Road Frame - Red. 48,No Discount,183.9382,0.00
+586,FB88-4B92-82,2,Road-650 Black. 52,No Discount,419.4589,0.00
+587,FB88-4B92-82,1,LL Road Frame - Red. 44,No Discount,183.9382,0.00
+588,FB88-4B92-82,1,Road-450 Red. 60,No Discount,874.794,0.00
+589,FB88-4B92-82,2,Road-650 Black. 44,No Discount,419.4589,0.00
+590,745E-4F74-BC,2,Mountain Bike Socks. M,No Discount,5.70,0.00
+591,745E-4F74-BC,1,Mountain-100 Black. 44,No Discount,2024.994,0.00
+592,0CD4-4091-9B,1,Road-650 Red. 60,No Discount,419.4589,0.00
+593,0CD4-4091-9B,1,Road-650 Black. 58,No Discount,419.4589,0.00
+594,0CD4-4091-9B,2,Road-650 Red. 44,No Discount,419.4589,0.00
+595,0CD4-4091-9B,3,Road-450 Red. 52,No Discount,874.794,0.00
+596,0CD4-4091-9B,1,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+597,0CD4-4091-9B,3,AWC Logo Cap,No Discount,5.1865,0.00
+598,0CD4-4091-9B,1,Long-Sleeve Logo Jersey. XL,No Discount,28.8404,0.00
+599,0CD4-4091-9B,1,LL Road Frame - Red. 44,No Discount,183.9382,0.00
+600,0CD4-4091-9B,2,Sport-100 Helmet. Blue,No Discount,20.1865,0.00
+601,0CD4-4091-9B,1,Sport-100 Helmet. Black,No Discount,20.1865,0.00
+602,0CD4-4091-9B,2,LL Road Frame - Black. 52,No Discount,178.5808,0.00
+603,0CD4-4091-9B,1,Road-650 Red. 48,No Discount,419.4589,0.00
+604,0CD4-4091-9B,2,Road-450 Red. 58,No Discount,874.794,0.00
+605,0CD4-4091-9B,2,Sport-100 Helmet. Red,No Discount,20.1865,0.00
+606,8FFA-4339-B7,2,Road-650 Red. 44,No Discount,419.4589,0.00
+607,8FFA-4339-B7,2,Road-650 Red. 62,No Discount,419.4589,0.00
+608,8FFA-4339-B7,5,Road-650 Black. 52,No Discount,419.4589,0.00
+609,8FFA-4339-B7,1,Road-650 Black. 58,No Discount,419.4589,0.00
+610,8FFA-4339-B7,2,LL Road Frame - Black. 52,No Discount,178.5808,0.00
+611,8FFA-4339-B7,3,Road-650 Red. 48,No Discount,419.4589,0.00
+612,8FFA-4339-B7,2,Road-450 Red. 58,No Discount,874.794,0.00
+613,8FFA-4339-B7,1,LL Road Frame - Black. 58,No Discount,178.5808,0.00
+614,8FFA-4339-B7,2,Road-150 Red. 56,No Discount,2146.962,0.00
+615,8FFA-4339-B7,1,LL Road Frame - Red. 48,No Discount,183.9382,0.00
+616,8FFA-4339-B7,1,Road-650 Black. 60,No Discount,419.4589,0.00
+617,8FFA-4339-B7,1,LL Road Frame - Red. 60,No Discount,183.9382,0.00
+618,8FFA-4339-B7,1,Road-450 Red. 44,No Discount,874.794,0.00
+619,2C16-4AA6-B4,1,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+620,2C16-4AA6-B4,1,Road-650 Red. 44,No Discount,419.4589,0.00
+621,2C16-4AA6-B4,3,Road-450 Red. 52,No Discount,874.794,0.00
+622,2C16-4AA6-B4,2,Road-650 Red. 60,No Discount,419.4589,0.00
+623,E57D-4B4B-BF,2,Road-650 Red. 62,No Discount,419.4589,0.00
+624,E57D-4B4B-BF,1,Road-650 Black. 52,No Discount,419.4589,0.00
+625,E57D-4B4B-BF,2,Road-450 Red. 52,No Discount,874.794,0.00
+626,E57D-4B4B-BF,2,Road-650 Black. 58,No Discount,419.4589,0.00
+627,E57D-4B4B-BF,1,ML Road Frame - Red. 48,No Discount,356.898,0.00
+628,E57D-4B4B-BF,1,Road-650 Red. 44,No Discount,419.4589,0.00
+629,E57D-4B4B-BF,1,LL Road Frame - Black. 52,No Discount,178.5808,0.00
+630,E57D-4B4B-BF,1,Road-650 Black. 44,No Discount,419.4589,0.00
+631,E57D-4B4B-BF,2,Road-150 Red. 56,No Discount,2146.962,0.00
+632,E57D-4B4B-BF,1,LL Road Frame - Red. 60,No Discount,183.9382,0.00
+633,E57D-4B4B-BF,1,Road-650 Red. 48,No Discount,419.4589,0.00
+634,E57D-4B4B-BF,1,Road-450 Red. 44,No Discount,874.794,0.00
+635,0CC0-4166-9E,1,ML Road Frame - Red. 48,No Discount,356.898,0.00
+636,0CC0-4166-9E,3,Road-650 Red. 52,No Discount,419.4589,0.00
+637,0CC0-4166-9E,5,Road-650 Black. 52,No Discount,419.4589,0.00
+638,0CC0-4166-9E,2,Road-650 Black. 44,No Discount,419.4589,0.00
+639,0CC0-4166-9E,1,LL Road Frame - Red. 44,No Discount,183.9382,0.00
+640,0CC0-4166-9E,9,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+641,0CC0-4166-9E,4,Road-650 Black. 58,No Discount,419.4589,0.00
+642,0CC0-4166-9E,1,Road-150 Red. 56,No Discount,2146.962,0.00
+643,0CC0-4166-9E,2,ML Road Frame - Red. 52,No Discount,356.898,0.00
+644,0CC0-4166-9E,2,LL Road Frame - Red. 62,No Discount,183.9382,0.00
+645,0CC0-4166-9E,2,Road-650 Black. 60,No Discount,419.4589,0.00
+646,0CC0-4166-9E,4,Sport-100 Helmet. Blue,No Discount,20.1865,0.00
+647,0CC0-4166-9E,3,Road-450 Red. 58,No Discount,874.794,0.00
+648,0CC0-4166-9E,2,Road-450 Red. 44,No Discount,874.794,0.00
+649,0CC0-4166-9E,2,LL Road Frame - Red. 60,No Discount,183.9382,0.00
+650,0CC0-4166-9E,4,Road-650 Red. 60,No Discount,419.4589,0.00
+651,0CC0-4166-9E,2,Road-450 Red. 60,No Discount,874.794,0.00
+652,0CC0-4166-9E,6,Long-Sleeve Logo Jersey. XL,No Discount,28.8404,0.00
+653,0CC0-4166-9E,2,Road-650 Red. 48,No Discount,419.4589,0.00
+654,0CC0-4166-9E,2,Road-450 Red. 52,No Discount,874.794,0.00
+655,0CC0-4166-9E,9,AWC Logo Cap,No Discount,5.1865,0.00
+656,0CC0-4166-9E,2,Road-650 Red. 62,No Discount,419.4589,0.00
+657,0CC0-4166-9E,4,Sport-100 Helmet. Red,No Discount,20.1865,0.00
+658,0CC0-4166-9E,1,LL Road Frame - Black. 52,No Discount,178.5808,0.00
+659,0CC0-4166-9E,3,Long-Sleeve Logo Jersey. M,No Discount,28.8404,0.00
+660,0CC0-4166-9E,2,LL Road Frame - Black. 58,No Discount,178.5808,0.00
+661,0CC0-4166-9E,3,Sport-100 Helmet. Black,No Discount,20.1865,0.00
+662,68A2-4B5C-A7,4,Mountain-100 Silver. 38,No Discount,2039.994,0.00
+663,68A2-4B5C-A7,1,HL Mountain Frame - Silver. 48,No Discount,818.70,0.00
+664,68A2-4B5C-A7,3,Mountain-100 Black. 44,No Discount,2024.994,0.00
+665,68A2-4B5C-A7,4,Mountain-100 Silver. 44,No Discount,2039.994,0.00
+666,68A2-4B5C-A7,2,HL Mountain Frame - Black. 38,No Discount,714.7043,0.00
+667,68A2-4B5C-A7,2,HL Mountain Frame - Silver. 38,No Discount,722.5949,0.00
+668,68A2-4B5C-A7,2,Mountain-100 Silver. 48,No Discount,2039.994,0.00
+669,68A2-4B5C-A7,1,HL Mountain Frame - Black. 48,No Discount,809.76,0.00
+670,68A2-4B5C-A7,4,Mountain Bike Socks. M,No Discount,5.70,0.00
+671,D0C0-435D-A2,1,Road-450 Red. 52,No Discount,874.794,0.00
+672,D0C0-435D-A2,1,AWC Logo Cap,No Discount,5.1865,0.00
+673,D0C0-435D-A2,1,Road-650 Red. 60,No Discount,419.4589,0.00
+674,D0C0-435D-A2,1,Road-650 Red. 44,No Discount,419.4589,0.00
+675,B5D8-4B03-96,5,Mountain-100 Silver. 42,No Discount,2039.994,0.00
+676,B5D8-4B03-96,1,HL Mountain Frame - Black. 38,No Discount,714.7043,0.00
+677,B5D8-4B03-96,2,HL Mountain Frame - Silver. 48,No Discount,818.70,0.00
+678,B5D8-4B03-96,2,Mountain-100 Black. 48,No Discount,2024.994,0.00
+679,B5D8-4B03-96,4,Mountain-100 Black. 42,No Discount,2024.994,0.00
+680,B5D8-4B03-96,1,HL Mountain Frame - Silver. 38,No Discount,722.5949,0.00
+681,B5D8-4B03-96,2,Mountain-100 Silver. 38,No Discount,2039.994,0.00
+682,B5D8-4B03-96,4,Mountain-100 Silver. 44,No Discount,2039.994,0.00
+683,B5D8-4B03-96,1,HL Mountain Frame - Black. 48,No Discount,809.76,0.00
+684,071C-4913-89,1,Road-450 Red. 52,No Discount,874.794,0.00
+685,071C-4913-89,2,Road-650 Black. 52,No Discount,419.4589,0.00
+686,071C-4913-89,1,Road-150 Red. 56,No Discount,2146.962,0.00
+687,071C-4913-89,4,Road-650 Red. 60,No Discount,419.4589,0.00
+688,071C-4913-89,1,LL Road Frame - Red. 44,No Discount,183.9382,0.00
+689,071C-4913-89,4,LL Road Frame - Red. 60,No Discount,183.9382,0.00
+690,071C-4913-89,1,Road-650 Red. 44,No Discount,419.4589,0.00
+691,071C-4913-89,2,Road-650 Red. 48,No Discount,419.4589,0.00
+692,071C-4913-89,5,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+693,071C-4913-89,1,LL Road Frame - Black. 52,No Discount,178.5808,0.00
+694,071C-4913-89,3,AWC Logo Cap,No Discount,5.1865,0.00
+695,071C-4913-89,3,Road-650 Black. 58,No Discount,419.4589,0.00
+696,071C-4913-89,3,Road-650 Red. 62,No Discount,419.4589,0.00
+697,071C-4913-89,3,Road-450 Red. 58,No Discount,874.794,0.00
+698,B6E8-4721-85,1,Mountain-100 Silver. 38,No Discount,2039.994,0.00
+699,B6E8-4721-85,1,Mountain-100 Black. 44,No Discount,2024.994,0.00
+700,B6E8-4721-85,2,Mountain Bike Socks. M,No Discount,5.70,0.00
+701,061F-4449-BE,1,Sport-100 Helmet. Black,No Discount,20.1865,0.00
+702,061F-4449-BE,1,Mountain-100 Silver. 48,No Discount,2039.994,0.00
+703,061F-4449-BE,2,Mountain-100 Black. 42,No Discount,2024.994,0.00
+704,061F-4449-BE,2,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+705,061F-4449-BE,2,Mountain-100 Silver. 44,No Discount,2039.994,0.00
+706,061F-4449-BE,2,Mountain Bike Socks. M,No Discount,5.70,0.00
+707,061F-4449-BE,3,Long-Sleeve Logo Jersey. M,No Discount,28.8404,0.00
+708,061F-4449-BE,4,Mountain-100 Silver. 38,No Discount,2039.994,0.00
+709,061F-4449-BE,2,Sport-100 Helmet. Blue,No Discount,20.1865,0.00
+710,061F-4449-BE,1,Sport-100 Helmet. Red,No Discount,20.1865,0.00
+711,061F-4449-BE,2,Mountain-100 Black. 48,No Discount,2024.994,0.00
+712,061F-4449-BE,4,AWC Logo Cap,No Discount,5.1865,0.00
+713,061F-4449-BE,2,HL Mountain Frame - Black. 42,No Discount,714.7043,0.00
+714,061F-4449-BE,1,HL Mountain Frame - Silver. 38,No Discount,722.5949,0.00
+715,061F-4449-BE,3,HL Mountain Frame - Silver. 46,No Discount,722.5949,0.00
+716,061F-4449-BE,2,HL Mountain Frame - Silver. 48,No Discount,818.70,0.00
+717,061F-4449-BE,2,Mountain-100 Black. 44,No Discount,2024.994,0.00
+718,061F-4449-BE,1,Long-Sleeve Logo Jersey. XL,No Discount,28.8404,0.00
+719,5E0C-45B4-9D,1,Road-150 Red. 62,No Discount,2146.962,0.00
+720,96FA-4DF1-81,1,HL Mountain Frame - Black. 38,No Discount,714.7043,0.00
+721,96FA-4DF1-81,5,Mountain-100 Black. 38,No Discount,2024.994,0.00
+722,96FA-4DF1-81,2,Mountain-100 Black. 44,No Discount,2024.994,0.00
+723,96FA-4DF1-81,2,HL Mountain Frame - Black. 48,No Discount,809.76,0.00
+724,96FA-4DF1-81,5,Mountain-100 Silver. 38,No Discount,2039.994,0.00
+725,96FA-4DF1-81,4,Mountain-100 Silver. 42,No Discount,2039.994,0.00
+726,96FA-4DF1-81,1,HL Mountain Frame - Black. 42,No Discount,714.7043,0.00
+727,96FA-4DF1-81,1,Mountain-100 Silver. 48,No Discount,2039.994,0.00
+728,96FA-4DF1-81,5,Mountain-100 Black. 48,No Discount,2024.994,0.00
+729,96FA-4DF1-81,2,HL Mountain Frame - Silver. 46,No Discount,722.5949,0.00
+730,1722-46CA-96,3,Road-650 Red. 60,No Discount,419.4589,0.00
+731,1722-46CA-96,2,Road-650 Red. 44,No Discount,419.4589,0.00
+732,1722-46CA-96,3,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+733,1722-46CA-96,3,Road-650 Black. 52,No Discount,419.4589,0.00
+734,1722-46CA-96,1,Road-450 Red. 52,No Discount,874.794,0.00
+735,01F1-4AD5-A5,1,AWC Logo Cap,No Discount,5.1865,0.00
+736,01F1-4AD5-A5,1,Road-650 Red. 62,No Discount,419.4589,0.00
+737,01F1-4AD5-A5,2,LL Road Frame - Red. 60,No Discount,183.9382,0.00
+738,01F1-4AD5-A5,2,Sport-100 Helmet. Red,No Discount,20.1865,0.00
+739,01F1-4AD5-A5,1,Road-450 Red. 52,No Discount,874.794,0.00
+740,01F1-4AD5-A5,1,LL Road Frame - Red. 44,No Discount,183.9382,0.00
+741,01F1-4AD5-A5,1,Road-650 Red. 44,No Discount,419.4589,0.00
+742,01F1-4AD5-A5,2,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+743,01F1-4AD5-A5,3,Road-450 Red. 58,No Discount,874.794,0.00
+744,01F1-4AD5-A5,1,Road-150 Red. 56,No Discount,2146.962,0.00
+745,01F1-4AD5-A5,4,Sport-100 Helmet. Black,No Discount,20.1865,0.00
+746,01F1-4AD5-A5,2,Road-650 Red. 60,No Discount,419.4589,0.00
+747,01F1-4AD5-A5,3,Road-650 Black. 52,No Discount,419.4589,0.00
+748,01F1-4AD5-A5,4,Sport-100 Helmet. Blue,No Discount,20.1865,0.00
+749,52FF-45CD-9B,1,Road-650 Red. 48,No Discount,419.4589,0.00
+750,52FF-45CD-9B,1,Sport-100 Helmet. Black,No Discount,20.1865,0.00
+751,52FF-45CD-9B,3,Road-450 Red. 52,No Discount,874.794,0.00
+752,52FF-45CD-9B,2,Road-450 Red. 44,No Discount,874.794,0.00
+753,52FF-45CD-9B,1,Road-650 Black. 58,No Discount,419.4589,0.00
+754,52FF-45CD-9B,2,Sport-100 Helmet. Blue,No Discount,20.1865,0.00
+755,52FF-45CD-9B,4,Sport-100 Helmet. Red,No Discount,20.1865,0.00
+756,52FF-45CD-9B,2,LL Road Frame - Red. 44,No Discount,183.9382,0.00
+757,52FF-45CD-9B,1,ML Road Frame - Red. 48,No Discount,356.898,0.00
+758,52FF-45CD-9B,1,LL Road Frame - Black. 52,No Discount,178.5808,0.00
+759,52FF-45CD-9B,1,Road-150 Red. 56,No Discount,2146.962,0.00
+760,52FF-45CD-9B,2,Road-450 Red. 58,No Discount,874.794,0.00
+761,52FF-45CD-9B,1,Road-450 Red. 60,No Discount,874.794,0.00
+762,52FF-45CD-9B,4,Long-Sleeve Logo Jersey. XL,No Discount,28.8404,0.00
+763,52FF-45CD-9B,1,Road-650 Red. 60,No Discount,419.4589,0.00
+764,52FF-45CD-9B,4,AWC Logo Cap,No Discount,5.1865,0.00
+765,494C-48D2-BD,6,Road-650 Black. 52,No Discount,419.4589,0.00
+766,494C-48D2-BD,2,Road-650 Red. 52,No Discount,419.4589,0.00
+767,494C-48D2-BD,2,Road-150 Red. 62,No Discount,2146.962,0.00
+768,494C-48D2-BD,5,LL Road Frame - Red. 48,No Discount,183.9382,0.00
+769,494C-48D2-BD,5,LL Road Frame - Red. 60,No Discount,183.9382,0.00
+770,494C-48D2-BD,1,Road-450 Red. 60,No Discount,874.794,0.00
+771,494C-48D2-BD,1,LL Road Frame - Black. 52,No Discount,178.5808,0.00
+772,494C-48D2-BD,3,Road-650 Black. 60,No Discount,419.4589,0.00
+773,494C-48D2-BD,3,LL Road Frame - Black. 58,No Discount,178.5808,0.00
+774,494C-48D2-BD,5,Road-450 Red. 52,No Discount,874.794,0.00
+775,494C-48D2-BD,5,Road-650 Red. 60,No Discount,419.4589,0.00
+776,494C-48D2-BD,3,ML Road Frame - Red. 52,No Discount,356.898,0.00
+777,494C-48D2-BD,2,Road-650 Black. 44,No Discount,419.4589,0.00
+778,494C-48D2-BD,1,Road-450 Red. 44,No Discount,874.794,0.00
+779,494C-48D2-BD,5,Sport-100 Helmet. Red,No Discount,20.1865,0.00
+780,494C-48D2-BD,1,Road-650 Black. 58,No Discount,419.4589,0.00
+781,494C-48D2-BD,2,Sport-100 Helmet. Blue,No Discount,20.1865,0.00
+782,494C-48D2-BD,6,Road-450 Red. 58,No Discount,874.794,0.00
+783,494C-48D2-BD,3,LL Road Frame - Red. 62,No Discount,183.9382,0.00
+784,494C-48D2-BD,6,Road-650 Red. 62,No Discount,419.4589,0.00
+785,494C-48D2-BD,5,Road-650 Red. 48,No Discount,419.4589,0.00
+786,494C-48D2-BD,1,Long-Sleeve Logo Jersey. XL,No Discount,28.8404,0.00
+787,494C-48D2-BD,5,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+788,494C-48D2-BD,1,Long-Sleeve Logo Jersey. M,No Discount,28.8404,0.00
+789,494C-48D2-BD,4,Road-650 Red. 44,No Discount,419.4589,0.00
+790,494C-48D2-BD,2,LL Road Frame - Red. 44,No Discount,183.9382,0.00
+791,494C-48D2-BD,2,Road-150 Red. 56,No Discount,2146.962,0.00
+792,494C-48D2-BD,6,ML Road Frame - Red. 48,No Discount,356.898,0.00
+793,190B-4F56-9E,1,Road-650 Red. 48,No Discount,419.4589,0.00
+794,CE1F-4E31-89,6,Mountain-100 Black. 48,No Discount,2024.994,0.00
+795,CE1F-4E31-89,2,HL Mountain Frame - Black. 38,No Discount,714.7043,0.00
+796,CE1F-4E31-89,1,HL Mountain Frame - Silver. 48,No Discount,818.70,0.00
+797,CE1F-4E31-89,2,Mountain Bike Socks. M,No Discount,5.70,0.00
+798,CE1F-4E31-89,2,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+799,CE1F-4E31-89,7,Mountain-100 Silver. 48,No Discount,2039.994,0.00
+800,CE1F-4E31-89,6,Mountain-100 Silver. 38,No Discount,2039.994,0.00
+801,CE1F-4E31-89,2,Sport-100 Helmet. Red,No Discount,20.1865,0.00
+802,CE1F-4E31-89,5,HL Mountain Frame - Silver. 38,No Discount,722.5949,0.00
+803,CE1F-4E31-89,12,Mountain-100 Silver. 44,Volume Discount 11 to 14,1971.9942,0.02
+804,CE1F-4E31-89,1,HL Mountain Frame - Black. 48,No Discount,809.76,0.00
+805,CE1F-4E31-89,13,Mountain-100 Black. 38,Volume Discount 11 to 14,1957.4942,0.02
+806,CE1F-4E31-89,2,Mountain-100 Silver. 42,No Discount,2039.994,0.00
+807,CE1F-4E31-89,8,Mountain-100 Black. 42,No Discount,2024.994,0.00
+808,CE1F-4E31-89,2,HL Mountain Frame - Black. 42,No Discount,714.7043,0.00
+809,CE1F-4E31-89,2,AWC Logo Cap,No Discount,5.1865,0.00
+810,CE1F-4E31-89,2,Mountain-100 Black. 44,No Discount,2024.994,0.00
+811,CE1F-4E31-89,3,Long-Sleeve Logo Jersey. XL,No Discount,28.8404,0.00
+812,CE1F-4E31-89,5,Sport-100 Helmet. Black,No Discount,20.1865,0.00
+813,CE1F-4E31-89,3,HL Mountain Frame - Silver. 46,No Discount,722.5949,0.00
+814,CE1F-4E31-89,2,Long-Sleeve Logo Jersey. M,No Discount,28.8404,0.00
+815,1E6F-4150-A3,2,Road-650 Red. 44,No Discount,419.4589,0.00
+816,1E6F-4150-A3,1,Road-450 Red. 52,No Discount,874.794,0.00
+817,1E6F-4150-A3,3,Road-650 Red. 48,No Discount,419.4589,0.00
+818,1E6F-4150-A3,2,Road-450 Red. 58,No Discount,874.794,0.00
+819,1E6F-4150-A3,2,LL Road Frame - Red. 44,No Discount,183.9382,0.00
+820,1E6F-4150-A3,2,Road-650 Red. 62,No Discount,419.4589,0.00
+821,1E6F-4150-A3,2,Road-650 Black. 52,No Discount,419.4589,0.00
+822,1E6F-4150-A3,2,LL Road Frame - Red. 60,No Discount,183.9382,0.00
+823,4ECF-42F2-A7,4,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+824,4ECF-42F2-A7,2,Sport-100 Helmet. Black,No Discount,20.1865,0.00
+825,4ECF-42F2-A7,5,Mountain Bike Socks. M,No Discount,5.70,0.00
+826,4ECF-42F2-A7,3,Mountain-100 Silver. 38,No Discount,2039.994,0.00
+827,4ECF-42F2-A7,2,Mountain-100 Black. 38,No Discount,2024.994,0.00
+828,4ECF-42F2-A7,4,Mountain-100 Silver. 48,No Discount,2039.994,0.00
+829,4ECF-42F2-A7,1,Mountain-100 Black. 48,No Discount,2024.994,0.00
+830,4ECF-42F2-A7,1,Long-Sleeve Logo Jersey. XL,No Discount,28.8404,0.00
+831,4ECF-42F2-A7,1,Sport-100 Helmet. Blue,No Discount,20.1865,0.00
+832,4ECF-42F2-A7,2,Sport-100 Helmet. Red,No Discount,20.1865,0.00
+833,FC28-4F00-A9,1,Mountain-100 Silver. 42,No Discount,2039.994,0.00
+834,FC28-4F00-A9,1,Mountain-100 Silver. 38,No Discount,2039.994,0.00
+835,EDC5-4BD5-8F,3,Road-650 Red. 44,No Discount,419.4589,0.00
+836,EDC5-4BD5-8F,2,Road-650 Red. 48,No Discount,419.4589,0.00
+837,EDC5-4BD5-8F,3,Road-650 Red. 60,No Discount,419.4589,0.00
+838,EDC5-4BD5-8F,2,Road-650 Red. 52,No Discount,419.4589,0.00
+839,EDC5-4BD5-8F,2,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+840,EDC5-4BD5-8F,4,LL Road Frame - Red. 44,No Discount,183.9382,0.00
+841,EDC5-4BD5-8F,4,Long-Sleeve Logo Jersey. M,No Discount,28.8404,0.00
+842,EDC5-4BD5-8F,4,Road-650 Black. 52,No Discount,419.4589,0.00
+843,EDC5-4BD5-8F,3,LL Road Frame - Red. 62,No Discount,183.9382,0.00
+844,EDC5-4BD5-8F,2,Road-450 Red. 58,No Discount,874.794,0.00
+845,EDC5-4BD5-8F,2,LL Road Frame - Red. 48,No Discount,183.9382,0.00
+846,EDC5-4BD5-8F,1,Long-Sleeve Logo Jersey. XL,No Discount,28.8404,0.00
+847,EDC5-4BD5-8F,2,Road-650 Black. 60,No Discount,419.4589,0.00
+848,EDC5-4BD5-8F,3,Road-650 Black. 58,No Discount,419.4589,0.00
+849,EDC5-4BD5-8F,3,LL Road Frame - Red. 60,No Discount,183.9382,0.00
+850,EDC5-4BD5-8F,1,Road-650 Black. 44,No Discount,419.4589,0.00
+851,EDC5-4BD5-8F,5,Sport-100 Helmet. Black,No Discount,20.1865,0.00
+852,EDC5-4BD5-8F,3,Road-450 Red. 52,No Discount,874.794,0.00
+853,EDC5-4BD5-8F,1,Road-450 Red. 44,No Discount,874.794,0.00
+854,EDC5-4BD5-8F,3,LL Road Frame - Black. 52,No Discount,178.5808,0.00
+855,EDC5-4BD5-8F,2,Road-450 Red. 60,No Discount,874.794,0.00
+856,EDC5-4BD5-8F,4,Sport-100 Helmet. Red,No Discount,20.1865,0.00
+857,EDC5-4BD5-8F,5,Sport-100 Helmet. Blue,No Discount,20.1865,0.00
+858,EDC5-4BD5-8F,5,LL Road Frame - Black. 58,No Discount,178.5808,0.00
+859,EDC5-4BD5-8F,1,Road-150 Red. 56,No Discount,2146.962,0.00
+860,EDC5-4BD5-8F,13,AWC Logo Cap,Volume Discount 11 to 14,5.0136,0.02
+861,3269-4442-87,3,Road-650 Red. 60,No Discount,419.4589,0.00
+862,3269-4442-87,2,Road-450 Red. 60,No Discount,874.794,0.00
+863,3269-4442-87,3,Road-650 Red. 44,No Discount,419.4589,0.00
+864,3269-4442-87,3,Road-650 Black. 52,No Discount,419.4589,0.00
+865,3269-4442-87,1,Road-650 Black. 60,No Discount,419.4589,0.00
+866,3269-4442-87,1,LL Road Frame - Black. 52,No Discount,178.5808,0.00
+867,3269-4442-87,1,ML Road Frame - Red. 48,No Discount,356.898,0.00
+868,3269-4442-87,2,Road-150 Red. 56,No Discount,2146.962,0.00
+869,3269-4442-87,2,Road-450 Red. 44,No Discount,874.794,0.00
+870,3269-4442-87,2,LL Road Frame - Red. 44,No Discount,183.9382,0.00
+871,3269-4442-87,2,Road-450 Red. 52,No Discount,874.794,0.00
+872,3269-4442-87,1,Road-650 Red. 52,No Discount,419.4589,0.00
+873,3269-4442-87,1,Road-650 Black. 44,No Discount,419.4589,0.00
+874,89D3-483D-8F,2,Mountain-100 Black. 42,No Discount,2024.994,0.00
+875,89D3-483D-8F,2,Mountain-100 Black. 48,No Discount,2024.994,0.00
+876,89D3-483D-8F,5,Mountain-100 Silver. 42,No Discount,2039.994,0.00
+877,89D3-483D-8F,3,Mountain-100 Silver. 48,No Discount,2039.994,0.00
+878,89D3-483D-8F,3,Mountain-100 Black. 44,No Discount,2024.994,0.00
+879,89D3-483D-8F,2,Long-Sleeve Logo Jersey. M,No Discount,28.8404,0.00
+880,89D3-483D-8F,4,Mountain-100 Silver. 44,No Discount,2039.994,0.00
+881,89D3-483D-8F,21,Mountain Bike Socks. M,Volume Discount 15 to 24,5.225,0.05
+882,8137-47B8-9B,1,Mountain-100 Black. 48,No Discount,2024.994,0.00
+883,E43E-40BF-9B,2,LL Road Frame - Red. 48,No Discount,183.9382,0.00
+884,E43E-40BF-9B,1,ML Road Frame - Red. 48,No Discount,356.898,0.00
+885,E43E-40BF-9B,2,Road-650 Red. 48,No Discount,419.4589,0.00
+886,E43E-40BF-9B,1,Road-650 Black. 44,No Discount,419.4589,0.00
+887,E43E-40BF-9B,2,Road-650 Black. 52,No Discount,419.4589,0.00
+888,E43E-40BF-9B,2,AWC Logo Cap,No Discount,5.1865,0.00
+889,E43E-40BF-9B,2,Road-650 Red. 60,No Discount,419.4589,0.00
+890,E43E-40BF-9B,1,LL Road Frame - Black. 58,No Discount,178.5808,0.00
+891,E43E-40BF-9B,1,LL Road Frame - Red. 44,No Discount,183.9382,0.00
+892,E43E-40BF-9B,3,LL Road Frame - Black. 52,No Discount,178.5808,0.00
+893,E43E-40BF-9B,1,Road-150 Red. 62,No Discount,2146.962,0.00
+894,E43E-40BF-9B,3,Road-650 Red. 44,No Discount,419.4589,0.00
+895,E43E-40BF-9B,3,Road-450 Red. 52,No Discount,874.794,0.00
+896,E43E-40BF-9B,2,Road-450 Red. 58,No Discount,874.794,0.00
+897,E43E-40BF-9B,2,Road-650 Red. 62,No Discount,419.4589,0.00
+898,E43E-40BF-9B,2,Road-150 Red. 56,No Discount,2146.962,0.00
+899,E43E-40BF-9B,2,Road-650 Black. 58,No Discount,419.4589,0.00
+900,728A-44AB-A8,3,HL Mountain Frame - Black. 38,No Discount,714.7043,0.00
+901,728A-44AB-A8,4,Sport-100 Helmet. Black,No Discount,20.1865,0.00
+902,728A-44AB-A8,3,HL Mountain Frame - Black. 48,No Discount,809.76,0.00
+903,728A-44AB-A8,10,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+904,728A-44AB-A8,10,Mountain-100 Black. 44,No Discount,2024.994,0.00
+905,728A-44AB-A8,5,Mountain-100 Black. 42,No Discount,2024.994,0.00
+906,728A-44AB-A8,5,Mountain-100 Silver. 44,No Discount,2039.994,0.00
+907,728A-44AB-A8,3,HL Mountain Frame - Silver. 48,No Discount,818.70,0.00
+908,728A-44AB-A8,5,Sport-100 Helmet. Blue,No Discount,20.1865,0.00
+909,728A-44AB-A8,4,Mountain-100 Black. 48,No Discount,2024.994,0.00
+910,728A-44AB-A8,6,Long-Sleeve Logo Jersey. XL,No Discount,28.8404,0.00
+911,728A-44AB-A8,1,HL Mountain Frame - Silver. 38,No Discount,722.5949,0.00
+912,728A-44AB-A8,8,Mountain-100 Silver. 38,No Discount,2039.994,0.00
+913,728A-44AB-A8,8,AWC Logo Cap,No Discount,5.1865,0.00
+914,728A-44AB-A8,2,Mountain-100 Black. 38,No Discount,2024.994,0.00
+915,728A-44AB-A8,3,HL Mountain Frame - Black. 42,No Discount,714.7043,0.00
+916,728A-44AB-A8,14,Mountain-100 Silver. 42,Volume Discount 11 to 14,1971.9942,0.02
+917,728A-44AB-A8,4,Sport-100 Helmet. Red,No Discount,20.1865,0.00
+918,728A-44AB-A8,4,Mountain-100 Silver. 48,No Discount,2039.994,0.00
+919,728A-44AB-A8,4,Mountain Bike Socks. M,No Discount,5.70,0.00
+920,728A-44AB-A8,1,HL Mountain Frame - Silver. 46,No Discount,722.5949,0.00
+921,728A-44AB-A8,1,Long-Sleeve Logo Jersey. M,No Discount,28.8404,0.00
+922,190F-4A02-89,4,Mountain Bike Socks. L,No Discount,5.70,0.00
+923,190F-4A02-89,8,Mountain Bike Socks. M,No Discount,5.70,0.00
+924,CE58-49B5-82,2,Road-450 Red. 58,No Discount,874.794,0.00
+925,CE58-49B5-82,1,Road-650 Red. 48,No Discount,419.4589,0.00
+926,CE58-49B5-82,2,LL Road Frame - Red. 48,No Discount,183.9382,0.00
+927,CE58-49B5-82,1,Road-650 Black. 44,No Discount,419.4589,0.00
+928,CE58-49B5-82,2,Road-450 Red. 44,No Discount,874.794,0.00
+929,CE58-49B5-82,3,Sport-100 Helmet. Blue,No Discount,20.1865,0.00
+930,CE58-49B5-82,6,AWC Logo Cap,No Discount,5.1865,0.00
+931,CE58-49B5-82,1,Sport-100 Helmet. Black,No Discount,20.1865,0.00
+932,CE58-49B5-82,2,Road-450 Red. 52,No Discount,874.794,0.00
+933,CE58-49B5-82,2,Road-650 Black. 52,No Discount,419.4589,0.00
+934,CE58-49B5-82,5,Road-650 Red. 60,No Discount,419.4589,0.00
+935,CE58-49B5-82,1,ML Road Frame - Red. 52,No Discount,356.898,0.00
+936,CE58-49B5-82,1,Long-Sleeve Logo Jersey. XL,No Discount,28.8404,0.00
+937,CE58-49B5-82,1,LL Road Frame - Red. 62,No Discount,183.9382,0.00
+938,CE58-49B5-82,1,Road-450 Red. 60,No Discount,874.794,0.00
+939,CE58-49B5-82,1,LL Road Frame - Black. 58,No Discount,178.5808,0.00
+940,CE58-49B5-82,5,Long-Sleeve Logo Jersey. M,No Discount,28.8404,0.00
+941,CE58-49B5-82,1,Road-650 Black. 60,No Discount,419.4589,0.00
+942,CE58-49B5-82,3,Road-650 Red. 44,No Discount,419.4589,0.00
+943,CE58-49B5-82,2,Road-150 Red. 56,No Discount,2146.962,0.00
+944,CE58-49B5-82,4,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+945,790D-448C-AA,1,Road-650 Black. 58,No Discount,419.4589,0.00
+946,7AED-4154-93,1,Road-650 Red. 52,No Discount,419.4589,0.00
+947,7AED-4154-93,1,Road-450 Red. 60,No Discount,874.794,0.00
+948,7AED-4154-93,2,LL Road Frame - Black. 52,No Discount,178.5808,0.00
+949,7AED-4154-93,1,LL Road Frame - Red. 44,No Discount,183.9382,0.00
+950,7AED-4154-93,1,Road-650 Black. 44,No Discount,419.4589,0.00
+951,7AED-4154-93,2,Road-650 Red. 60,No Discount,419.4589,0.00
+952,7AED-4154-93,1,Road-150 Red. 56,No Discount,2146.962,0.00
+953,7AED-4154-93,2,Road-450 Red. 44,No Discount,874.794,0.00
+954,7AED-4154-93,5,Road-450 Red. 58,No Discount,874.794,0.00
+955,7AED-4154-93,2,Road-650 Black. 52,No Discount,419.4589,0.00
+956,7AED-4154-93,2,LL Road Frame - Red. 62,No Discount,183.9382,0.00
+957,7AED-4154-93,2,Road-650 Red. 48,No Discount,419.4589,0.00
+958,7AED-4154-93,2,Road-650 Black. 58,No Discount,419.4589,0.00
+959,7AED-4154-93,1,LL Road Frame - Red. 48,No Discount,183.9382,0.00
+960,F108-4D76-8A,1,Mountain-100 Black. 48,No Discount,2024.994,0.00
+961,F108-4D76-8A,2,Long-Sleeve Logo Jersey. XL,No Discount,28.8404,0.00
+962,6787-4174-98,5,Mountain-100 Silver. 38,No Discount,2039.994,0.00
+963,6787-4174-98,2,Mountain-100 Black. 44,No Discount,2024.994,0.00
+964,6787-4174-98,7,Mountain-100 Silver. 44,No Discount,2039.994,0.00
+965,6787-4174-98,2,Mountain-100 Silver. 48,No Discount,2039.994,0.00
+966,6787-4174-98,3,HL Mountain Frame - Silver. 46,No Discount,722.5949,0.00
+967,6787-4174-98,5,Mountain-100 Silver. 42,No Discount,2039.994,0.00
+968,6787-4174-98,2,Mountain-100 Black. 42,No Discount,2024.994,0.00
+969,6787-4174-98,1,HL Mountain Frame - Silver. 38,No Discount,722.5949,0.00
+970,6787-4174-98,1,HL Mountain Frame - Black. 38,No Discount,714.7043,0.00
+971,6787-4174-98,8,Mountain-100 Black. 38,No Discount,2024.994,0.00
+972,6787-4174-98,4,Mountain Bike Socks. M,No Discount,5.70,0.00
+973,6787-4174-98,3,Mountain-100 Black. 48,No Discount,2024.994,0.00
+974,6787-4174-98,3,HL Mountain Frame - Black. 48,No Discount,809.76,0.00
+975,1094-43CB-B1,2,Mountain-100 Black. 38,No Discount,2024.994,0.00
+976,1094-43CB-B1,2,Mountain Bike Socks. L,No Discount,5.70,0.00
+977,1094-43CB-B1,1,Mountain-100 Black. 48,No Discount,2024.994,0.00
+978,1094-43CB-B1,3,Mountain-100 Silver. 44,No Discount,2039.994,0.00
+979,1094-43CB-B1,3,Mountain-100 Silver. 38,No Discount,2039.994,0.00
+980,1094-43CB-B1,4,Mountain Bike Socks. M,No Discount,5.70,0.00
+981,1094-43CB-B1,2,Mountain-100 Black. 42,No Discount,2024.994,0.00
+982,1094-43CB-B1,3,Mountain-100 Silver. 42,No Discount,2039.994,0.00
+983,1094-43CB-B1,2,Mountain-100 Black. 44,No Discount,2024.994,0.00
+984,0D3C-4E1F-9C,2,Road-650 Red. 44,No Discount,419.4589,0.00
+985,0D3C-4E1F-9C,3,Long-Sleeve Logo Jersey. L,No Discount,28.8404,0.00
+986,0D3C-4E1F-9C,2,Road-150 Red. 56,No Discount,2146.962,0.00
+987,0D3C-4E1F-9C,3,AWC Logo Cap,No Discount,5.1865,0.00
+988,0D3C-4E1F-9C,2,Road-650 Red. 48,No Discount,419.4589,0.00
+989,0D3C-4E1F-9C,5,Road-650 Red. 60,No Discount,419.4589,0.00
+990,0D3C-4E1F-9C,1,LL Road Frame - Red. 60,No Discount,183.9382,0.00
+991,0D3C-4E1F-9C,2,Sport-100 Helmet. Blue,No Discount,20.1865,0.00
+992,0D3C-4E1F-9C,2,Road-450 Red. 58,No Discount,874.794,0.00
+993,0D3C-4E1F-9C,3,Road-650 Black. 52,No Discount,419.4589,0.00
+994,0D3C-4E1F-9C,4,Road-650 Red. 62,No Discount,419.4589,0.00
+995,0D3C-4E1F-9C,3,Road-450 Red. 52,No Discount,874.794,0.00
+996,0D3C-4E1F-9C,2,Road-650 Black. 58,No Discount,419.4589,0.00
+997,7C5D-46AA-A7,1,Road-650 Black. 52,No Discount,419.4589,0.00
+998,7DF2-4E54-B0,3,Mountain Bike Socks. L,No Discount,5.70,0.00
+999,7DF2-4E54-B0,2,Mountain-100 Black. 44,No Discount,2024.994,0.00
+1000,7DF2-4E54-B0,3,Mountain-100 Black. 38,No Discount,2024.994,0.00

@@ -1,0 +1,16 @@
+﻿@model IEnumerable<Message>
+<ol class="breadcrumb">
+    <li><a href="/"><i class="fa fa-home"></i> Home</a></li>
+
+    @foreach (var message in Model)
+    {
+        if (Model.Last() == message)
+        {
+            <li class="active">@message.DisplayName</li>
+        }
+        else
+        {
+            <li><a href="@message.URLPath"> @message.DisplayName</a></li>
+        }
+    }
+</ol>

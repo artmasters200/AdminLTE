@@ -1,0 +1,118 @@
+﻿@using System.Collections.Generic
+@using Microsoft.AspNetCore.Http
+@using Microsoft.AspNetCore.Http.Authentication
+@model LoginViewModel
+@inject SignInManager<ApplicationUser> SignInManager
+
+@{
+    ViewData["Title"] = "Log in";
+    Layout = "";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>AdminLTE 2 | Login</title>
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <environment names="Development">
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+        <link rel="stylesheet" href="~/lib/font-awesome/css/font-awesome.css" />
+        <link rel="stylesheet" href="~/lib/Ionicons/css/ionicons.css" />
+
+        <link rel="stylesheet" href="~/css/animation.css" />
+        <link rel="stylesheet" href="~/css/login.css" />
+
+    </environment>
+    <environment names="Staging,Production">
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" asp-append-version="true" />
+        <link rel="stylesheet" href="~/lib/font-awesome/css/font-awesome.min.css" asp-append-version="true" />
+        <link rel="stylesheet" href="~/lib/Ionicons/css/ionicons.min.css" asp-append-version="true" />
+
+        <link rel="stylesheet" href="~/lib/Ionicons/css/animation.css" asp-append-version="true" />
+        <link rel="stylesheet" href="~/lib/Ionicons/css/authenty.css" asp-append-version="true" />
+
+    </environment>
+
+</head>
+<body id="signin_main" class="authenty signin-main">
+    <div class="section-content">
+        <div class="wrap">
+            <div class="container">
+                <div class="form-wrap">
+                    <div class="row">
+                        <div class="title animated fadeInDown">
+                            <h1>AdminLTE</h1>
+                            <h5>Use a local account to log in</h5>
+                        </div>
+
+                        <form asp-controller="Account" asp-action="Login" asp-route-returnurl="@ViewData["ReturnUrl"]" method="post" class="form-horizontal">
+                            <div>
+                                <div class="form-header">
+                                    @*<i class="fa fa-user"></i>*@
+                                    <img src="~/images/smarthr-sm.png" alt="adminlte" />
+                                </div>
+                                <div class="form-main">
+                                    <div asp-validation-summary="All" class="text-danger"></div>
+                                    <div class="form-group">
+                                        @*<label asp-for="Email" class="col-md-2 control-label"></label>*@
+                                        <input asp-for="Email" type="text" placeholder="Email" class="form-control" />
+                                        @*<span asp-validation-for="Email" class="text-danger"></span>*@
+                                        @*<label asp-for="Password" class="col-md-2 control-label"></label>*@
+                                        <input asp-for="Password" placeholder="Password" class="form-control" />
+                                        @*<span asp-validation-for="Password" class="text-danger"></span>*@
+                                    </div>
+
+                                    <div class="form-group">
+                                        <button class="btn btn-block signin" type="submit">Sign in</button>
+
+                                        <div>
+                                            <div class="checkbox">
+                                                <label asp-for="RememberMe" class="text-muted">
+                                                    <input asp-for="RememberMe" />
+                                                    @Html.DisplayNameFor(m => m.RememberMe)
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="form-footer">
+                                    <div class="row">
+                                        <div class="col-xs-7">
+                                            <i class="fa fa-unlock-alt"></i>
+                                            <a asp-action="ForgotPassword">Forgot your password?</a>
+                                        </div>
+                                        <div class="col-xs-5">
+                                            <i class="fa fa-check"></i>
+                                            <a asp-action="Register" asp-route-returnurl="@ViewData["ReturnUrl"]">Sign Up</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <environment names="Development">
+        <script src="~/lib/jquery/dist/jquery.js" asp-append-version="true"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.js" asp-append-version="true"></script>
+        <script src="~/js/app.js" asp-append-version="true"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+    </environment>
+    <environment names="Staging,Production">
+        <script src="~/lib/jquery/dist/jquery.min.js" asp-append-version="true"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.min.js" asp-append-version="true"></script>
+        <script src="~/js/app.min.js" asp-append-version="true"></script>
+        <script src="~/js/site.min.js" asp-append-version="true"></script>
+    </environment>
+
+    @section Scripts {
+        @{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+    }
+</body>
+</html>
