@@ -140,7 +140,9 @@ The above code will create a hierarchical sidebar like...
 ...where 1 is the notification color at the right side of the link via Tuple.
 Tuple 0 will not display the notification whereas the position of the items will display its corresponding color notification
 
-** Menu Notification **
+
+**Menu Notification**
+
 
 This implementation is almost the same with Menu Task and Menu Message.
 
