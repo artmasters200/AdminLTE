@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using System;
 
 namespace AdminLTE.Models
 {
@@ -11,6 +12,5 @@ namespace AdminLTE.Models
         public string DateRegistered { get; set; }
         public string Position { get; set; }
         public string NickName { get; set; }
-
     }
 }

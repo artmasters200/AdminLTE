@@ -80,5 +80,8 @@ function useSubmitClass() {
         $(this).prop("disabled", "disabled");
         $(this).append(" <i class='fa fa-circle-o-notch fa-spin fa-fw'></i>");
     });
-}
 
+    $('form').bind('invalid-form.validate', function () {
+        $(this).find($('button[type=submit]')).prop("disabled", false).find($('i')).remove()
+    });
+}

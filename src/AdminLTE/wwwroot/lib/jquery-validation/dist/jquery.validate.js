@@ -103,7 +103,8 @@ $.extend( $.fn, {
 					}
 					return handle();
 				} else {
-					validator.focusInvalid();
+				    validator.focusInvalid();
+
 					return false;
 				}
 			} );

@@ -10,6 +10,7 @@ using AdminLTE.Models;
 using AdminLTE.Models.AccountViewModels;
 using AdminLTE.Services;
 using AdminLTE.Common;
+using System;
 
 namespace AdminLTE.Controllers
 {
@@ -108,9 +109,14 @@ namespace AdminLTE.Controllers
                 {
                     UserName = model.Email,
                     Email = model.Email,
+                    //extended properties
                     FirstName = model.FirstName,
                     LastName = model.LastName,
-                    AvatarURL = "~/images/user.png",
+                    AvatarURL = "/images/user.png",
+                    DateRegistered = DateTime.UtcNow.ToString(),
+                    Position = "",
+                    NickName = "",
+                   
                 };
                 var result = await _userManager.CreateAsync(user, model.Password);
                 if (result.Succeeded)
