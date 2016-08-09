@@ -178,6 +178,7 @@ public class MenuNotificationViewComponent : ViewComponent
 
 ### List of Global Javascript Events
 * **Submit Button** - disabled when click once. Auto add progress spinner. No additional codes required for that implementation.
+
 > Usage: You just simply declare the submit button. The script name is `useSubmitClass`
 
 ```html
@@ -190,6 +191,7 @@ public class MenuNotificationViewComponent : ViewComponent
 
 * Sidebar Collapse/ Expand
 * The sidebar will save the expand & collapse state thru cookie. Using `Mozilla cookie helper`.
+
 > The cookie name is `sidebarstate`
 
 ### List of Control Templates
