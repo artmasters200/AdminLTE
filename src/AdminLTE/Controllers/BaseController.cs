@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using AdminLTE.Models;
+using System.Runtime.CompilerServices;
 
 namespace AdminLTE.Controllers
 {

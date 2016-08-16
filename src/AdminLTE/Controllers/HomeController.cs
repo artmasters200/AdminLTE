@@ -1,4 +1,5 @@
-﻿using AdminLTE.Models;
+﻿using AdminLTE.Common.Attributes;
+using AdminLTE.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -11,6 +12,7 @@ namespace AdminLTE.Controllers
 {
     public class HomeController : BaseController
     {
+        [HelpDefinition]
         public IActionResult Index()
         {
             AddPageHeader("Dashboard", "");
@@ -24,15 +26,16 @@ namespace AdminLTE.Controllers
             return View("Index");
         }
 
+        [HelpDefinition]
         public IActionResult About()
         {
-            AddBreadcrumb("About", "/Account/About");
-
             ViewData["Message"] = "Your application description page.";
+            AddBreadcrumb("About", "/Account/About");
 
             return View();
         }
 
+        [HelpDefinition("helpdefault")]
         public IActionResult Contact()
         {
             AddBreadcrumb("Register", "/Account/Register");
