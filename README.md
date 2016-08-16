@@ -68,6 +68,7 @@ see below the body of **_Layouts.cshtml**
 	* User Profile
 * Footer
 * SideBar
+* ControlSideBar (converted to HelpBar)
 * PageHeader
 * Breadcrumb
 * Login & Logout
@@ -177,6 +178,28 @@ public class MenuNotificationViewComponent : ViewComponent
 }
 ```
 
+**Help Pane**
+
+You can add page help or quick links/info by adding `[HelpDefinition]` attribute above the IActionResult method
+```cs
+public class HomeController : BaseController
+   {
+       [HelpDefinition]
+       public IActionResult Index()
+       {
+           return View();
+       }
+```
+
+You can still specify a filename as parameter in case you want to retrieve it on the wwwroot/files/Shared folder. 
+
+```cs
+[HelpDefinition("helpdefault")]
+public IActionResult Contact()
+{
+```
+
+> By default, no arguments will get the path via ControllerName\CallerMethod which have the equivalent path to wwwroot/files/{ControllerName}/{CallerMethod}.html
 
 ### List of Global Javascript Events
 * **Submit Button** - disabled when click once. Auto add progress spinner. No additional codes required for that implementation.
