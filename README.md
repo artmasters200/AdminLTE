@@ -237,7 +237,8 @@ This uses templated individual authentication and customized `ErrorPage` & `Logi
 It also uses dependency injection that requires controllers by default to be ``[Authorized]``
 without typing them on each controller/method
 
-
+## Known Issue
+**Please perform Apply Migrations on the first run**
 
 ## Copyrights
 See MIT License
